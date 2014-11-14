@@ -1,0 +1,364 @@
+
+- 
+  id: 1
+  name: "Nathaly"
+  surname: "Alarcon"
+  company: "GDG Women Lima"
+  title: ""
+  bio: 'Organizer del GDGWomenLima. Ingeniera de Sistemas de la Escuela Militar de Ingeniería (La Paz - Bolivia). Líder Técnico en proyectos BPM Freelancer. Apasionada por la tecnología y la Seguridad de Sistemas. I code in my sleep'
+  thumbnailUrl: nalarcon.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NathalyAlarconTorrico/posts"}
+    - {name: "twitter", link: "https://twitter.com/NathalyAlarconT"}
+
+
+
+
+- 
+  id: 2
+  name: "Cesar"
+  surname: "Alvarado"
+  company: "GDG Open Lima"
+  title: ""
+  bio: '<p></p>'
+  thumbnailUrl: calvarado.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+CesarAlvaradoP/posts"}
+    - {name: "twitter", link: "https://twitter.com/CesarAlvaradoP"}
+
+
+- 
+  id: 3
+  name: "Edson"
+  surname: "Chavez"
+  company: ""
+  title: ""
+  bio: '<p>Trabajo en Avantica Technologies empresa donde me desempeño como Senior Software Engineer en el area de proyectos internacionales ademas a lo largo de mi carrera he cubierto los roles de Arquitecto de Software y ScrumMaster, desarrollando proyectos, siempre motivando y liderando equipos agiles en los desarrollos para nuestros diferentes clientes. Desarrollador por vocación y elección busco aprender constantemente sobre las diferentes herramientas empleadas tanto en mis proyectos como en el espectro profesional ultimamente reviso sobre automatización razón por la cual elegi el tema de la charla para esta edición del devfest</p>'
+  thumbnailUrl: echavez.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/118431497527196529448/posts"}
+    - {name: "twitter", link: "https://twitter.com/grubhart"}
+
+- 
+  id: 4
+  name: "Harry"
+  surname: "Colchado"
+  company: ""
+  title: ""
+  bio: '<p> Desarrolla software desde hace más de siete años '','' actualmente es CEO de Orange 612, empresa de desarrollo de software que fundó en el 2012 y cuenta con clientes como la Organización de Estados Americanos, los ministerios de Cultura y de Educación del Perú, algunas universidades como la PUCP y otros clientes en el extranjero.</p>'
+  thumbnailUrl: hcolchado.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+
+
+
+- 
+  id: 5
+  name: "Melissa"
+  surname: "Gave"
+  company: "GDG Women Lima"
+  title: ""
+  bio: "Ingeniero en Computación y Sistemas.Organizer del GDG Women Lima."
+  thumbnailUrl: mgave.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
+    - {name: "twitter", link: "https://twitter.com/MelissaGaveM"}
+
+
+- 
+  id: 6
+  name: "Ronald"
+  surname: "Guillen"
+  company: "Neo Consulting"
+  title: ""
+  bio: ""
+  thumbnailUrl: rguillen.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RonaldGuillen/posts"}
+    - {name: "twitter", link: "https://twitter.com/ronaldguillen"}
+
+
+
+- 
+  id: 8
+  name: "Alvaro"
+  surname: "Huanca"
+  company: "GDG Lima"
+  title: ""
+  bio: "Ingeniero en Computación y Sistemas.  Manager del GDG Lima."
+  thumbnailUrl: ahuanca.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AlvaroDavid/posts"}
+    - {name: "twitter", link: "https://twitter.com/AlvarDev"}
+
+
+- 
+  id: 9
+  name: "Juan"
+  surname: "La Jara"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: jlajara.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JuanLaJara/posts"}
+    - {name: "twitter", link: ""}
+
+
+
+- 
+  id: 10
+  name: "Julio"
+  surname: "Lopez"
+  company: "GDG Open Lima"
+  title: "Organizador GDG Open Lima"
+  bio: ""
+  thumbnailUrl: jlopez.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JulioLopezMontalvo/posts"}
+    - {name: "twitter", link: "https://twitter.com/TheBlasfem"}
+
+
+- 
+  id: 11
+  name: "Zig"
+  surname: "Mandel"
+  company: "Google Developer Expert"
+  title: ""
+  bio: ""
+  thumbnailUrl: zmandel.png
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ZigMandelCloudware/posts"}
+    - {name: "twitter", link: ""}
+
+
+
+
+- 
+  id: 12
+  name: "Eduardo"
+  surname: "Medina"
+  company: "GDG Lima"
+  title: ""
+  bio: " Especialista en Desarrollo Mòvil ,  Organizer del GDG Lima, Instructor de aplicaciòn mòviles y  Lìder Tècnico Android en OnlinestudioProductions."
+  thumbnailUrl: emedina.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
+    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+
+
+
+
+- 
+  id: 13
+  name: "German"
+  surname: "Medina"
+  company: ""
+  title: ""
+  bio: 'Ingeniero de Sistemas de la Universidad Señor de Sipan. Actualmente Ingeniero i+D de Hytera soluciones Networking, DMR y Tetra. Android Team Leader de Motorola de Perú (2012 - 2010)Jefe de Redes INEN (2010 - 2008)Ingeniero Supervisor de HUB Telmex Ecuador (2007 - 2006)  Asesor de Tecnología de Ministro de Salud (2006)'
+  thumbnailUrl: gmedina.png
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+GermanMedinaNeria/posts"}
+    - {name: "twitter", link: "https://twitter.com/mistergmedina"}
+
+- 
+  id: 14
+  name: "Gerson"
+  surname: "Nino"
+  company: "GDG Lima"
+  title: ""
+  bio: "Estudiante de Ciencias de la Computación, entusiasta investigador  y Organizador del GDGLima"
+  thumbnailUrl: gnino.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+GersonNi%C3%B1oDiaz/posts"}
+    - {name: "twitter", link: "https://twitter.com/07Gond"}
+
+
+
+
+- 
+  id: 15
+  name: "Armando"
+  surname: "Picon"
+  company: "GDG Open Lima"
+  title: ""
+  bio: "<p>Organizador GDG Open Lima</p>"
+  thumbnailUrl: apicon.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ArmandoPicon/posts"}
+    - {name: "twitter", link: "https://twitter.com/apiconz"}
+
+
+- 
+  id: 16
+  name: "Hernan"
+  surname: "Quintana"
+  company: ""
+  title: ""
+  bio: "<p>Ingeniero Informático de la Pontificia Universidad Católica y MBA de la Universidad de Lima. Docente de cursos de programación y móviles en la Universidad de Lima. Actualmente se desempeña como Gerente General de la empresa DEVOS INC.</p>"
+  thumbnailUrl: hquintana.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+HernanQuintanaCruz/posts"}
+    - {name: "twitter", link: ""}
+
+
+- 
+  id: 17
+  name: "Romero"
+  surname: "Orlando"
+  company: ""
+  title: ""
+  bio: "<p>Desarrollador web independiente y docente en Cibertec, con interés en aprender y compartir</p>"
+  thumbnailUrl: oromero.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+
+
+- 
+  id: 18
+  name: "Salinas"
+  surname: "Moises"
+  company: "GDG Open Lima "
+  title: ""
+  bio: "<p>Linuxero. Miemnbro del GDG OpenLima</p>"
+  thumbnailUrl: msalinas.png
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/107161425821612060400/posts"}
+    - {name: "twitter", link: "https://twitter.com/sagoyanfisic"}
+
+
+
+- 
+  id: 19
+  name: "Sanchez"
+  surname: "Rolly"
+  company: ""
+  title: ""
+  bio: "<p>Analista y Desarrollador de sistemas, Pentester independiente, estoy constante configuración y monitoreo de servidores contra ataque cibernéticos, amante de la seguridad informática y además en constante estudio e investigación.</p>"
+  thumbnailUrl: rsanchez.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/107161425821612060400/posts"}
+    - {name: "twitter", link: ""}
+
+
+- 
+  id: 20
+  name: "Hansy"
+  surname: "Schmitt"
+  company: "GDG  Lima"
+  title: ""
+  bio: "Organizador GDG Lima"
+  thumbnailUrl: hschmitt.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+HansySchmitt1/posts"}
+    - {name: "twitter", link: "https://twitter.com/randomsy/"}
+
+
+
+- 
+  id: 21
+  name: "Marco"
+  surname: "Trujillo"
+  company: "GDG Open Lima"
+  title: "Organizador GDG Open Lima"
+  bio: ""
+  thumbnailUrl: mtrujillo.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MarcoTrujilloLaura/posts"}
+    - {name: "twitter", link: "https://twitter.com/solisfox"}
+
+
+
+
+- 
+  id: 22
+  name: "Urbina"
+  surname: "Diego"
+  company: "GDG  Lima"
+  title: ""
+  bio: "Ingeniero de Sistemas e investigador. Google Apps Deployment Specialist. Manager del GDG Lima."
+  thumbnailUrl: durbina.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+DiegoUrbinaLopez/posts"}
+    - {name: "twitter", link: "https://twitter.com/AlevanDie"}
+
+
+- 
+  id: 23
+  name: "Cristhina"
+  surname: "Valdivia"
+  company: ""
+  title: ""
+  bio: "Miembro de Google Developer Group Lima, alumna del colegio Innova School del 7mo Grado, Expositora en Fundacion Telefonica en el Arduino Day 2014 y Miembro del equipo Ganador con el 2do puesto en la Hackaton de Google Peru 2014 y Miembro del equipo Ganador 3er puesto en la Hackaton 2014 de la Municipalidad de Lima "
+  thumbnailUrl: cvalvidia.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/112087278077054201029/posts"}
+    - {name: "twitter", link: "https://twitter.com/hackercita"}
+
+- 
+  id: 24
+  name: "Claudia"
+  surname: "Villalba"
+  company: "Organizador GDG  Women Lima "
+  title: ""
+  bio: "Organizer del GDGWomenLima. Estudiante de Ingeniera Informática. Enamorada de las nuevas tecnologías y la investigación"
+  thumbnailUrl: cvillalba.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ClaudiaVillalba/posts"}
+    - {name: "twitter", link: "https://twitter.com/Claus1405"}
+
+
+
+- 
+  id: 25
+  name: "Milton"
+  surname: "Yarleque"
+  company: "Organizador GDG Lima"
+  title: ""
+  bio: "Desarrolador. IT Specialist en IBM del Perú. Organizador en GDG Lima .Con experiencia en diferentes rubros como banca ,aviacion comercial, industria farmacéutica y telecomunicaciones."
+  thumbnailUrl: myarleque.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MiltonYarleque/posts"}
+    - {name: "twitter", link: "https://twitter.com/myarleq"}
+
+
+- 
+  id: 26
+  name: "Manuel"
+  surname: "Zegarra"
+  company: ""
+  title: ""
+  bio: "Especialista de Aplicaciones Móviles. Experiencia en el desarrollo de aplicaciones móviles e integraciones con sistemas transaccionales."
+  thumbnailUrl: mzegarra.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/105451259464190270795/posts"}
+    - {name: "twitter", link: ""}
+
+

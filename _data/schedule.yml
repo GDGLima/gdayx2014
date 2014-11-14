@@ -1,0 +1,75 @@
+- 
+  date: "2014-11-08"
+  dateReadable: '08 Noviembre - Conferencias'
+  parallelCount: 1
+  tracks: 
+    - {parallel: 1, title: "Auditorio", color: "#90be4e"}
+    - {parallel: 1, title: "Sala 1", color: "#03a9f4"}
+    - {parallel: 1, title: "Sala 2", color: "#e91e63"}
+  timeslots:
+    - {
+        parallel: 1,
+        startTime: "08:00",
+        endTime: "08:45",
+        sessionIds: [212]
+    }
+    - {
+        parallel: 1,
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [001,008,408]
+    }
+    - {
+        parallel: 1,
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [002,009,016]
+    }
+    - {
+        parallel: 1,
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionIds: [003,010,021]
+    }
+    - {
+        parallel: 1,
+        startTime: "12:00",
+        endTime: "13:00",
+        sessionIds: [022,011,408]
+    }
+    - {
+        parallel: 1,
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [307]
+    }
+    - {
+        parallel: 1,
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [004,012,017]
+    }
+    - {
+        parallel: 1,
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [005,013,018]
+    }
+    - {
+        parallel: 1,
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [006,014,019]
+    }
+    - {
+        parallel: 1,
+        startTime: "17:00",
+        endTime: "18:00",
+        sessionIds: [007,015,020]
+    }
+    - {
+        parallel: 1,
+        startTime: "18:00",
+        endTime: "18:30",
+        sessionIds: [303]
+    }

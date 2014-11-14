@@ -1,4 +1,4 @@
-gdayx2014
-=========
+# GDayX 2014, Lima Perú.
+# Thanks Project Zeppelin
 
-Source for GDayX 2014 website. Lima, Perú.
+

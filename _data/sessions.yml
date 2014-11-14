@@ -1,0 +1,244 @@
+-
+  id: 212
+  title: "Registro de asistentes"
+  place: "Hall"
+  service: true
+-
+  id: 303
+  title: "Cierre del evento"
+  place: "Blue room"
+  service: true
+-
+  id: 307
+  title: "Break"
+  place: "Hall"
+  service: true
+-
+  id: 408
+  title: ""
+  place: "Hall"
+  service: true
+
+-
+  id: 410
+  title: "No hay conferencia"
+  place: "Hall"
+  service: true
+
+-
+
+  id: 001
+  title: "Automatizando proyectos con Gradle"
+  description: "A estas alturas ya debes haber escuchado sobre automatizacion para el desarrollo de software (y espero que lo apliques en tus proyectos) tanto si lo has hecho como no, esta sesion te interesara daremos un pequeño paseo sobre la automatizacion en el proceso de desarrollo (ciclo de vida, testing, integracion continua, entrega continua) y daremos una revision del uso de Gradle una herramienta relativamente nueva con bastante aceptacion entre proyectos tan grandes como Spring Framework, Groovy, Hibernate, etc"
+  subtype: presentation
+  speakers: [3]
+  language: es
+  complexity: "a"
+-
+  id: 002
+  title: "Desarrollo de Web Components con Polymer"
+  description: "Desarrollo de Web Components con Polymer"
+  subtype: presentation
+  speakers: [10]
+  language: es
+  complexity: ""
+-
+  id: 003
+  title: "WordPress + App Engine"
+  description: "Introducción a WordPress y su potencial de uso con App Engine"
+  subtype: presentation
+  speakers: [4]
+  language: es
+  complexity: ""
+-
+  id: 004
+  title: "Cardboard: Una ventana al mundo virtual"
+  description: "Getting started sobre como funciona un cardboard y su potencial para el desarrollo de nuevas apps."
+  subtype: presentation
+  speakers: [8]
+  language: es
+  complexity: ""
+
+-
+  id: 005
+  title: "Haciendo juegos en scratch con Cristhina"
+  description: "Taller de introducción a la programación de un Juego usando Scratch, orientado a jóvenes y adultos, con el objetivo que los asistentes conozcan la manera de crear un videojuego por ellos mismos de manera muy sencilla, aprendiendo los pasos de Scratch."
+  subtype: presentation
+  speakers: [23]
+  language: es
+  complexity: ""
+
+-
+  id: 006
+  title: "Experimentando el lado malvado de Google Compute Engine"
+  description: "Experimentando el lado malvado de Google Compute Engine"
+  subtype: presentation
+  speakers: [18]
+  language: es
+  complexity: ""
+
+-
+  id: 007
+  title: "Desarrollo basado en URLs"
+  description: "Notas desde el frente de batalla entre las aplicaciones web y las aplicaciones nativas"
+  subtype: presentation
+  speakers: [9]
+  language: es
+  complexity: ""
+
+
+-
+  id: 008
+  title: "Conexiones remotas en Android usando Volley"
+  description: "“Veremos unos ejemplos de còmo utilizar volley para conexiones remotas "
+  subtype: presentation
+  speakers: [12]
+  language: es
+  complexity: ""
+
+-
+  id: 009
+  title: "Creative Women to lead the technology industry"
+  description: "“WomenTechmakers tiene como objetivo aumentar lel numero de  mujeres innovadoras líderes en tecnología e inspirar a otros a unirse al campo"
+  subtype: presentation
+  speakers: [5]
+  language: es
+  complexity: ""
+
+
+-
+  id: 010
+  title: " Quick Start Guide: Ruby on Rails app under Google Compute Engine"
+  description: "Procedimientos básicos para levantar una app en ruby on rails en una"
+  subtype: presentation
+  speakers: [22]
+  language: es
+  complexity: ""
+
+-
+  id: 011
+  title: "Angular JS Modular"
+  description: "Angular JS Modular"
+  subtype: presentation
+  speakers: [17]
+  language: es
+  complexity: ""
+
+
+-
+  id: 012
+  title: "GAE"
+  description: "GAE"
+  subtype: presentation
+  speakers: [15]
+  language: es
+  complexity: ""
+
+
+-
+  id: 013
+  title: "Mobile App Analytics"
+  description: "Resumen GA Summit"
+  subtype: presentation
+  speakers: [6]
+  language: es
+  complexity: ""
+
+
+-
+  id: 014
+  title: "Utilizando la nube. Android con Parse"
+  description: "El tema trata de las posibilidades que nos da la utilización de las tecnologías de la nube en el desarrollo de aplicaciones móviles. Con estas plataformas, el tiempo y costo de desarrollar una app móvil se ve reducido drásticamente. En esta charla se pondrá énfasis en el integración de Parse con Android."
+  subtype: presentation
+  speakers: [16]
+  language: es
+  complexity: ""
+
+
+-
+  id: 015
+  title: "Como correr una aplicacion android en el navegador Chrome"
+  description: "Como correr una aplicacion android en el navegador Chrome"
+  subtype: presentation
+  speakers: [13]
+  language: es
+  complexity: ""
+
+-
+  id: 016
+  title: "[IN]Seguridad en los web services y más yerbas"
+  description: "Se verán algunas vulnerabilidades en los servicios web y la forma de asegurarlo"
+  subtype: presentation
+  speakers: [19]
+  language: es
+  complexity: ""
+
+
+-
+  id: 017
+  title: "Android Wear"
+  description: " ¿ Qué es Android Wear ? Y como funciona en un reloj inteligente .Un vistazo al SDK."
+  subtype: presentation
+  speakers: [25]
+  language: es
+  complexity: ""
+
+
+
+-
+  id: 018
+  title: "Desarrollando una app Python sobre AppEngine "
+  description: "Desarrollando una app Python sobre AppEngine"
+  subtype: presentation
+  speakers: [21]
+  language: es
+  complexity: ""
+
+
+-
+  id: 019
+  title: "Material Design"
+  description: "Exploraremos los principios,lineamientos y aplicación del Lenguaje de Programación Visual creado por Google orientado a la Web y a dispositivos móviles."
+  subtype: presentation
+  speakers: [1,24]
+  language: es
+  complexity: ""
+
+
+-
+  id: 020
+  title: "Mobile Messaging - M2M Picando con Mosquitto"
+  description: "Mobile Messaging - M2M Picando con Mosquitto"
+  subtype: presentation
+  speakers: [26]
+  language: es
+  complexity: ""
+
+-
+  id: 021
+  title: "El perfecto BackEnd en la nube -Java Endpoints - Golgle App Engine"
+  description: "El perfecto BackEnd en la nube -Java Endpoints - Golgle App Engine"
+  subtype: presentation
+  speakers: [2]
+  language: es
+  complexity: ""
+
+
+-
+  id: 022
+  title: "Extensiones en Chrome"
+  description: "Extensiones en Chrome"
+  subtype: presentation
+  speakers: [11]
+  language: es
+  complexity: ""
+
+
+-
+  id: 023
+  title: "Bienvenidos a Polymer y la Revolución de los Componentes Web"
+  description: " Un vistazo a la nueva era que comienza con los componentes web y la alternativa de Google frente a esto: Polymer"
+  subtype: presentation
+  speakers: [14]
+  language: es
+  complexity: ""

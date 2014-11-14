@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDG DevFest Season 2014</title>
+    <description>GDG DevFest is a set of events all around the world</description>
+    <link>http://limadevfest.com/</link>
+    <atom:link href="http://limadevfest.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>¡Charlas y Labs geniales!</title>
+        <description>&lt;p&gt;Nuestros expositores presentarán una serie de charlas y laboratorios para que puedas obtener el &lt;strong&gt;máximo conocimiento y aproveches el Lima DevFest totalmente&lt;/strong&gt;. El resultado de la teoría y la práctica es la misión de cada speaker. Temas de interés:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;+Google Cloud Compute Engine&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Google Apps Deployment&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Volley library&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Android Wear&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Material Design&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Android L&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Polymer&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+GAE&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Java EndPoints&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Python on Google AppEngine&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+AngularJS&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+SEO with AngularJS&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Web Services security&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+Mobile - Google Analytics&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Entre otros más.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Más información y registro GRATIS en: - &lt;a href=&quot;https://limadevfest.eventbrite.com/&quot;&gt;Lima DevFest&lt;/a&gt;. &lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 29 Oct 2014 06:00:00 -0500</pubDate>
+        <link>http://limadevfest.com/blog/charlas-labs</link>
+        <guid isPermaLink="true">http://limadevfest.com/blog/charlas-labs</guid>
+      </item>
+    
+      <item>
+        <title>¡Bienvenidos al Lima DevFest!</title>
+        <description>&lt;p&gt;No te pierdas este 8 de Noviembre el Lima DevFest 2014 nuestro festival de desarrolladores completamente renovado , ven y aprende más sobre las tecnologías de Google. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sé uno de los primeros en inscribirte antes que se agoten!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Organizado por las comunidades :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;+GDGLima&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+GDGWomenLima&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;+GDGOpenLima&lt;/strong&gt; &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Más información y registro GRATIS en: - &lt;a href=&quot;https://limadevfest.eventbrite.com/&quot;&gt;Lima DevFest&lt;/a&gt;. &lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Oct 2014 16:00:00 -0500</pubDate>
+        <link>http://limadevfest.com/blog/invitacion-limadevfest</link>
+        <guid isPermaLink="true">http://limadevfest.com/blog/invitacion-limadevfest</guid>
+      </item>
+    
+  </channel>
+</rss>
