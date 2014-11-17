@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+---
+title : "Sitemap"
+sitemap_exclude: y
+---
+=======
+>>>>>>> 54c1e1908af35324e565cd0611d19585f8f86753
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -5,58 +12,49 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+<<<<<<< HEAD
+    {% for page in site.pages %}
+    {% if page.sitemap_exclude != 'y' %}
+    <url>
+        <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
+    </url>
+    {% endif %}
+    {% endfor %}
+    
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
+    </url>
+    {% endfor %}
+=======
     
     
     <url>
-        <loc>http://limadevfest.com/about/</loc>
+        <loc>http://sp.devfest.com.br/blog/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://limadevfest.com/blog/</loc>
+        <loc>http://sp.devfest.com.br/cod/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://limadevfest.com/cod/</loc>
+        <loc>http://sp.devfest.com.br/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://limadevfest.com/feed.xml</loc>
+        <loc>http://sp.devfest.com.br/logistics/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://limadevfest.com/hackathon/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://limadevfest.com/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://limadevfest.com/logistics/</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://limadevfest.com/css/main.css</loc>
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://limadevfest.com/schedule/</loc>
+        <loc>http://sp.devfest.com.br/schedule/</loc>
     </url>
     
     
@@ -64,24 +62,25 @@
     
     
     <url>
-        <loc>http://limadevfest.com/speakers/</loc>
+        <loc>http://sp.devfest.com.br/speakers/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://limadevfest.com/team/</loc>
+        <loc>http://sp.devfest.com.br/team/</loc>
     </url>
     
     
     
     
     <url>
-        <loc>http://limadevfest.com/blog/charlas-labs</loc>
+        <loc>http://sp.devfest.com.br/blog/call-for-papers</loc>
     </url>
     
     <url>
-        <loc>http://limadevfest.com/blog/invitacion-limadevfest</loc>
+        <loc>http://sp.devfest.com.br/blog/hello-world</loc>
     </url>
     
+>>>>>>> 54c1e1908af35324e565cd0611d19585f8f86753
 </urlset>

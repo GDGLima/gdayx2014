@@ -58,11 +58,8 @@
     bottom: 0;
     left: 0;
 	&.solid-overlay {
-		background: rgba(37, 32, 31, .8);	
+		background: rgba(37, 32, 31, .8);
 	}
-    &.white-solid {
-        background: rgba(255, 255, 255, .9);
-    }
     &.gradient-overlay {
 	    background: linear-gradient(to bottom, rgba(0, 0, 0, .32) 0%, rgba(0, 0, 0, 0) 32%, rgba(0, 0, 0, .64) 100%);
 	}
@@ -95,6 +92,8 @@
     animation: blink .7s infinite;
     opacity: 1;
 }
+
+
 @keyframes blink {
     0% {
         opacity: 1;
@@ -106,6 +105,7 @@
         opacity: 1;
     }
 }
+
 .animated {
     @include animate-prefixer(animation-duration, $base-duration);
     @include animate-prefixer(animation-fill-mode, both);
