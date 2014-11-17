@@ -1,0 +1,22 @@
+- 
+  id: 1
+  name: "GDG Lima"
+  thumbnailUrl: gdglima.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DiegoUrbinaLopez/posts"}
+    - {name: "twitter", link: "https://twitter.com/AlevanDie"}
+- 
+  id: 2
+  name: "GDG Women Lima"
+  thumbnailUrl: gdgwomenlima.png
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
+    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+
+- 
+  id: 3
+  name: "GDG Open Lima"
+  thumbnailUrl: gdgopenlima.png
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
+    - {name: "twitter", link: "https://twitter.com/apiconz"}
