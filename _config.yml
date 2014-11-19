@@ -11,8 +11,8 @@ description: "GdayxLima 2014"
 baseurl: ""
 url: "http://gdayx.pe"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: ""
+googleAnalyticsTrackingId: "UA-41385112-1"
+googleAnalyticsSiteUrl: "gdayx.pe"
 
 
 # Organizer Info
