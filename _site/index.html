@@ -154,45 +154,21 @@
 </section>
 <!-- End Hero Section -->
 
-
- <!-- About Section -->
-<section id="about" class="about">
+ <!-- Begin Twitter Feed Section -->
+<section id="twitter-feed" class="twitter-feed image-section parallax" style="background-image: url(/img/twitter-feed.jpg);">
+    <div class="overlay solid-overlay"></div>
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
-            <h3>Acerca del Gdayx</h3>
-            <div class="row about-details">
-                
-                
-                
-                <div class="col-md-6 col-xs-6">  
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="0">
-                        <h5>Conferencias</h5>
-                        <img class="img-circle" src="/img/conference.jpg" height="128" width="128" alt="Conferencias">
-                        <p>El evento principal de GBG's</p>
-                    </div>
-                </div>
-                
-                
-                
-                
-                
-                <div class="col-md-6 col-xs-6">  
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-                        <h5>Talleres</h5>
-                        <img class="img-circle" src="/img/workshop.jpg" height="128" width="128" alt="Talleres">
-                        <p></p>
-                    </div>
-                </div>
-                
-                
-                 <div class="clearfix visible-xs"></div> 
-                
-            </div>
+        <div class="col-md-8 col-md-offset-2">
+            <svg class="icon" viewBox="0 0 30 32">
+                <use xlink:href="/img/sprites/sprites.svg#icon-twitter"></use>
+            </svg>
+            <h3>¡Interactúa con nosotros! <a href="https://twitter.com/search?q=%23gdayx" target="_blank">#gdayx</a>
+            </h3>
+            <div id="tweets" class="tweets"></div>
         </div>
     </div>
 </section>
-<!-- End About Section -->
-
+<!-- End Twitter Feed Section -->
 
  <!-- Begin Statistic Section -->
 <section id="statistic" class="statistic image-section parallax" style="background-image: url(/img/statistic.jpg);">
@@ -231,7 +207,20 @@
 	</div>
 </section>
 <!-- End Statistic Section -->
-
+ <!-- Begin Rockstar Speakers Section -->
+<section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url(/img/rockstar-speakers.jpg);">
+	<div class="overlay solid-overlay"></div>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
+			<h3 id="rockstar-speaker-title">Rockstar</h3>
+			<div class="clearfix"></div> 
+			<span class="bordered">
+				<a href="/speakers/" class="bottom-section-link waves-effect waves-button waves-light ">Ver +Expositores</a>
+			</span>
+		</div>
+	</div>
+</section>
+<!-- End Rockstar Speakers Section -->
  <!-- Begin Location Section -->
 <section id="location-map" class="location-map">
     <div id="canvas-map" class="canvas-map"></div>
@@ -380,39 +369,15 @@
                 var rockstarSpeakers = [
                     
                         
-                        {name: "Nathaly Alarcon", company: "GDG Women Lima", image: "/img/speakers/nalarcon.jpg"},
+                        {name: "Nicole Eckfeldt Alberti", company: "Google", image: "/img/speakers/neckfeldt.jpg"},
                         
                     
                         
-                        {name: "Cesar Alvarado", company: "GDG Open Lima", image: "/img/speakers/calvarado.jpg"},
+                        {name: "Cynthia Villamizar", company: "Google", image: "/img/speakers/cvillamizar.jpg"},
                         
                     
                         
-                        {name: "Edson Chavez", company: "", image: "/img/speakers/echavez.jpg"},
-                        
                     
-                        
-                        {name: "Harry Colchado", company: "", image: "/img/speakers/hcolchado.jpg"},
-                        
-                    
-                        
-                        {name: "Melissa Gave", company: "GDG Women Lima", image: "/img/speakers/mgave.jpg"},
-                        
-                    
-                        
-                        {name: "Ronald Guillen", company: "Neo Consulting", image: "/img/speakers/rguillen.jpg"},
-                        
-                    
-                        
-                        {name: "Alvaro Huanca", company: "GDG Lima", image: "/img/speakers/ahuanca.jpg"},
-                        
-                    
-                        
-                        {name: "Juan La Jara", company: "", image: "/img/speakers/jlajara.jpg"},
-                        
-                    
-                        
-                        {name: "Julio Lopez", company: "GDG Open Lima", image: "/img/speakers/jlopez.jpg"},
                         
                     
                         
@@ -420,68 +385,18 @@
                         
                     
                         
-                        {name: "Eduardo Medina", company: "GDG Lima", image: "/img/speakers/emedina.jpg"},
-                        
-                    
-                        
-                        {name: "German Medina", company: "", image: "/img/speakers/gmedina.png"},
-                        
-                    
-                        
-                        {name: "Gerson Nino", company: "GDG Lima", image: "/img/speakers/gnino.jpg"},
-                        
-                    
-                        
-                        {name: "Armando Picon", company: "GDG Open Lima", image: "/img/speakers/apicon.jpg"},
-                        
-                    
-                        
-                        {name: "Hernan Quintana", company: "", image: "/img/speakers/hquintana.jpg"},
-                        
-                    
-                        
-                        {name: "Romero Orlando", company: "", image: "/img/speakers/oromero.jpg"},
-                        
-                    
-                        
-                        {name: "Salinas Moises", company: "GDG Open Lima ", image: "/img/speakers/msalinas.png"},
-                        
-                    
-                        
-                        {name: "Sanchez Rolly", company: "", image: "/img/speakers/rsanchez.jpg"},
-                        
-                    
-                        
-                        {name: "Hansy Schmitt", company: "GDG  Lima", image: "/img/speakers/hschmitt.jpg"},
-                        
-                    
-                        
-                        {name: "Marco Trujillo", company: "GDG Open Lima", image: "/img/speakers/mtrujillo.jpg"},
-                        
-                    
-                        
-                        {name: "Urbina Diego", company: "GDG  Lima", image: "/img/speakers/durbina.jpg"},
-                        
-                    
-                        
-                        {name: "Cristhina Valdivia", company: "", image: "/img/speakers/cvalvidia.jpg"},
-                        
-                    
-                        
-                        {name: "Claudia Villalba", company: "Organizador GDG  Women Lima ", image: "/img/speakers/cvillalba.jpg"},
-                        
                     
                         
                     
                         
-                        {name: "Manuel Zegarra", company: "", image: "/img/speakers/mzegarra.jpg"}
+                    
                         
                     
                 ];
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = 4,
+                        count = 3,
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
@@ -551,50 +466,26 @@
         
         {
             "@type" : "Person",
-            "name" : "Nathaly Alarcon",
-            "image" : "http://gdayx.pe/img/speakers/nalarcon.jpg",
+            "name" : "Nicole Eckfeldt Alberti",
+            "image" : "http://gdayx.pe/img/speakers/neckfeldt.jpg",
             "jobTitle" : "",
             "worksFor" : {
                 "@type" : "Organization",
-                "name" : "GDG Women Lima"
+                "name" : "Google"
             },
-            "sameAs" : "https://plus.google.com/+NathalyAlarconTorrico/posts"
+            "sameAs" : "https://www.linkedin.com/pub/cynthia-villamizar/14/12b/2a"
         },
         
         {
             "@type" : "Person",
-            "name" : "Cesar Alvarado",
-            "image" : "http://gdayx.pe/img/speakers/calvarado.jpg",
+            "name" : "Cynthia Villamizar",
+            "image" : "http://gdayx.pe/img/speakers/cvillamizar.jpg",
             "jobTitle" : "",
             "worksFor" : {
                 "@type" : "Organization",
-                "name" : "GDG Open Lima"
+                "name" : "Google"
             },
-            "sameAs" : "https://plus.google.com/+CesarAlvaradoP/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Edson Chavez",
-            "image" : "http://gdayx.pe/img/speakers/echavez.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : "https://plus.google.com/u/0/118431497527196529448/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Harry Colchado",
-            "image" : "http://gdayx.pe/img/speakers/hcolchado.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : ""
+            "sameAs" : "https://www.linkedin.com/pub/cynthia-villamizar/14/12b/2a"
         },
         
         {
@@ -611,18 +502,6 @@
         
         {
             "@type" : "Person",
-            "name" : "Ronald Guillen",
-            "image" : "http://gdayx.pe/img/speakers/rguillen.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "Neo Consulting"
-            },
-            "sameAs" : "https://plus.google.com/u/0/+RonaldGuillen/posts"
-        },
-        
-        {
-            "@type" : "Person",
             "name" : "Alvaro Huanca",
             "image" : "http://gdayx.pe/img/speakers/ahuanca.jpg",
             "jobTitle" : "",
@@ -631,30 +510,6 @@
                 "name" : "GDG Lima"
             },
             "sameAs" : "https://plus.google.com/u/0/+AlvaroDavid/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Juan La Jara",
-            "image" : "http://gdayx.pe/img/speakers/jlajara.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : "https://plus.google.com/u/0/+JuanLaJara/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Julio Lopez",
-            "image" : "http://gdayx.pe/img/speakers/jlopez.jpg",
-            "jobTitle" : "Organizador GDG Open Lima",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "GDG Open Lima"
-            },
-            "sameAs" : "https://plus.google.com/+JulioLopezMontalvo/posts"
         },
         
         {
@@ -683,18 +538,6 @@
         
         {
             "@type" : "Person",
-            "name" : "German Medina",
-            "image" : "http://gdayx.pe/img/speakers/gmedina.png",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : "https://plus.google.com/u/0/+GermanMedinaNeria/posts"
-        },
-        
-        {
-            "@type" : "Person",
             "name" : "Gerson Nino",
             "image" : "http://gdayx.pe/img/speakers/gnino.jpg",
             "jobTitle" : "",
@@ -703,90 +546,6 @@
                 "name" : "GDG Lima"
             },
             "sameAs" : "https://plus.google.com/u/0/+GersonNi%C3%B1oDiaz/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Armando Picon",
-            "image" : "http://gdayx.pe/img/speakers/apicon.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "GDG Open Lima"
-            },
-            "sameAs" : "https://plus.google.com/+ArmandoPicon/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Hernan Quintana",
-            "image" : "http://gdayx.pe/img/speakers/hquintana.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : "https://plus.google.com/u/0/+HernanQuintanaCruz/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Romero Orlando",
-            "image" : "http://gdayx.pe/img/speakers/oromero.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : ""
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Salinas Moises",
-            "image" : "http://gdayx.pe/img/speakers/msalinas.png",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "GDG Open Lima "
-            },
-            "sameAs" : "https://plus.google.com/u/0/107161425821612060400/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Sanchez Rolly",
-            "image" : "http://gdayx.pe/img/speakers/rsanchez.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : "https://plus.google.com/u/0/107161425821612060400/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Hansy Schmitt",
-            "image" : "http://gdayx.pe/img/speakers/hschmitt.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "GDG  Lima"
-            },
-            "sameAs" : "https://plus.google.com/u/0/+HansySchmitt1/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Marco Trujillo",
-            "image" : "http://gdayx.pe/img/speakers/mtrujillo.jpg",
-            "jobTitle" : "Organizador GDG Open Lima",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "GDG Open Lima"
-            },
-            "sameAs" : "https://plus.google.com/u/0/+MarcoTrujilloLaura/posts"
         },
         
         {
@@ -803,30 +562,6 @@
         
         {
             "@type" : "Person",
-            "name" : "Cristhina Valdivia",
-            "image" : "http://gdayx.pe/img/speakers/cvalvidia.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : "https://plus.google.com/u/0/112087278077054201029/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Claudia Villalba",
-            "image" : "http://gdayx.pe/img/speakers/cvillalba.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : "Organizador GDG  Women Lima "
-            },
-            "sameAs" : "https://plus.google.com/u/0/+ClaudiaVillalba/posts"
-        },
-        
-        {
-            "@type" : "Person",
             "name" : "Milton Yarleque",
             "image" : "http://gdayx.pe/img/speakers/myarleque.jpg",
             "jobTitle" : "",
@@ -835,18 +570,6 @@
                 "name" : "Organizador GDG Lima"
             },
             "sameAs" : "https://plus.google.com/u/0/+MiltonYarleque/posts"
-        },
-        
-        {
-            "@type" : "Person",
-            "name" : "Manuel Zegarra",
-            "image" : "http://gdayx.pe/img/speakers/mzegarra.jpg",
-            "jobTitle" : "",
-            "worksFor" : {
-                "@type" : "Organization",
-                "name" : ""
-            },
-            "sameAs" : "https://plus.google.com/105451259464190270795/posts"
         }
           
         ],

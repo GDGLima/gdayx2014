@@ -43,13 +43,10 @@ navigationLinks:
  # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Expositores"}
- # - {permalink: "/team/", text: "Time"}
- # - {permalink: "/logistics/", text: "Logistica"}
- # - {link: "https://developers.google.com", text: "Desenvolvedores"}
- # bottomNavigationLinks:
- # - {link: "https://docs.google.com/forms/d/1egw-Kjo86PivWiu6yUwUW0tyY9jkNTiwU3nFzWK24Fk/viewform", text: "Seja um palestrante"}
- # rightNavigationButtons:
- #- {link: "https://docs.google.com/forms/d/1egw-Kjo86PivWiu6yUwUW0tyY9jkNTiwU3nFzWK24Fk/viewform", text: "Seja um palestrante"}
+#bottomNavigationLinks:
+# - {permalink: "/#tickets", text: "Regístrate"}
+#rightNavigationButtons:
+# - {permalink: "http://gdayxlima.eventbrite.com", text: "Regístrate"}
 
 # Hero Block
 heroTitle: "GdayxLima <typeout> 2014"
@@ -75,7 +72,7 @@ statisticBlock:
 latestNewsTitle: "Últimas Notícias"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Rockstar"
 rockstarSpeakersButtonText: "Ver +Expositores"
 
@@ -100,9 +97,9 @@ mapMobileCenterCoordinates: "-12.0723315,-76.94166519999999"
 # venueTitle: "Kinopalace Cinema"
 # venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
-# # Tweets Feed Block
-# tweetsFeedTitle: "What's Up?"
-# twitterHashTag: "devfest"
+# Tweets Feed Block
+tweetsFeedTitle: "¡Interactúa con nosotros!"
+twitterHashTag: "gdayx"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
