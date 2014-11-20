@@ -103,9 +103,9 @@ twitterHashTag: "gdayx"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: ""
-partnersC4sponsorsButtonEn: ""
+partnersTitle: "Organizers"
+partnersC4sponsorsButton: "Partners"
+partnersC4sponsorsButtonEn: "Become a sponsor"
 
 # # Organizers Block
 # organizersTitle: "Organizers"
@@ -136,7 +136,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/+GdgspOrg", icon: "google-plus"}
- 
+
 footerBlocks:
  -
   title: "Grupos"
@@ -146,6 +146,7 @@ footerBlocks:
   title: "Contacto"
   links:
    - {link: "mailto:gdglima@gmail.com", text: "gdglima@gmail.com"}
+   - {link: "mailto:gbglimape@gmail.com", text: "gbglimape@gmail.com"}
 
 
 # Blog

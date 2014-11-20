@@ -1,6 +1,6 @@
 - 
   date: "2014-12-13"
-  dateReadable: 'Muy pronto...'
+  dateReadable: 'Pronto estaremos compartiendo la agenda del evento'
   parallelCount: 1
   tracks: 
     - {parallel: 1, title: "Auditorio", color: "#90be4e"}
