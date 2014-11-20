@@ -1,46 +1,22 @@
 <!-- Begin Tickets 2 Section -->
-<section id="tickets-2" class="tickets-2">
+<section id="tickets" class="tickets-2">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
 			<h3>{{ site.ticketsTitle }}</h3>
 			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
 			{% assign animationDelay = 0 %}
-            {% for ticketsOffer in site.ticketsOffers %}
-	            <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-	            	
-
+            
+                <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 	            	<div class="row">
 						
-                    <div style="width:100%; text-align:left;" >
-
-                      <iframe  src="//eventbrite.com/tickets-external?eid=14484145469&ref=etckt" frameborder="0" height="306" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
-                      </iframe>
-
-                    <div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
-
-                    <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Registro de eventos online</a>
-                     <span style="color:#ddd;"> para </span>
-
-                    <a style="color:#ddd; text-decoration:none;" target="_blank" href="https://gdayxlima.eventbrite.com/?ref=etckt">GdayX Lima for Entrepreneurs</a> 
-
-                    <span style="color:#ddd;">ofrecido por</span>
-
-                     <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a>
-                     </div>
-
-                     </div>
-				
-
-						</div>
-
-
-
+						
+						<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=14484145469&ref=etckt" frameborder="0" height="306" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Registro de eventos online</a><span style="color:#ddd;"> para </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://gdayxlima.eventbrite.com/?ref=etckt">GdayX Lima for Entrepreneurs</a> <span style="color:#ddd;">ofrecido por</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
+					</div>
 				</div>
 			{% assign animationDelay = animationDelay | plus:250 %}
-            {% endfor %}
             </div>
-      	</div>
-	
+            <span class="tickets-info">{{ site.ticketsInfo }}</span>
+		</div>
 	</div>
 </section>
 <!-- End Tickets 2 Section -->

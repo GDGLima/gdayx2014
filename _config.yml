@@ -118,22 +118,21 @@ partnersC4sponsorsButtonEn: "Become a sponsor"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 
-# Buy Tickets Block
+# Tickets Block
 ticketsTitle: "Inscríbete"
-
-ticketsOffers:
--
-  name: "Believe in the Force"
-  price: ""
-  priceCurrency: ""
-  buyButtonLink: ""
-  buyButtonText: ""
-  # additionalInfo: "Preço válido até 15/10/2014"
-  validFrom: "2014-12-01T00:00"
-  validThrough: "2014-12-12T23:59"
-  soldOut: true
-  soldOutText: ""
-
+#ticketsInfo: "Acceso a todas las conferencias y talleres."
+#ticketsOffers:
+ #-
+  #name: "GDayxLima 2014"
+  #price: "Gratis"
+  #priceCurrency: 
+  #ticketsNumber: "250"
+  #ribbon: 
+  #buyButtonLink: "gdayxlima.eventbrite.com"
+  #buyButtonText: "Inscríbete"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  #validFrom: "2014-08-25T10:00"
+  #validThrough: "2014-11-08T23:59"
 
 # Footer
 socialLinks:

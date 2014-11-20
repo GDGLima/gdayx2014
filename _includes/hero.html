@@ -48,7 +48,8 @@
             <h1 style="background:rgba(33, 33, 33, 0.54);">{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
             <p style="font-weight:300;">{{ site.eventDate }}</p>
             {% for button in site.heroButtons %}
-            <a href="{{ button.url }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">{{ button.text }}</a>
+            
+            <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
         </div>
     </div>
