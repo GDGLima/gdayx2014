@@ -58,10 +58,10 @@ heroButtons:
  
 
 # About Block
-aboutTitle: "Acerca del Gdayx"
+aboutTitle: "Acerca del GDayX"
 aboutBlock:
- - {title: "Conferencias", image: "conference.jpg", text: "El evento principal de GBG's" }
- - {title: "Talleres", image: "workshop.jpg", text: "" }
+ - {title: "Google for Business", image: "gdayxlogo.png", text: "El segmento Google for Business se contará con la participación de representantes de productos de Google y expertos en la materia que mediante conferencias y seminarios, estarán compartiendo toda la propuesta estratégica del mundo de negocios utilizando Google y herramientas de internet. Este segmento estará orientado a empresas, instituciones, emprendedores  y agencias del sector de negocios." }
+ - {title: "Google for Developers", image: "logodelta.png", text: "En el segmento Google for Developers, se desarrollará la edición DevFest Lima 2014 donde también participarán reconocidos expositores del  canal de Ingeniería de Google y expertos desarrolladores de la región Latinoamerica que brindarán sesiones, codelabs orientados a desarrolladores de software" }
 
 # Statistic Block
 statisticBlock:
