@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Gdayx 2014"
+title: "Gdayx Lima 2014"
 emailGBG: "gbglimape@gmail.com"
 emailGDG: "gdglima@gmail.com"
 description: "GdayxLima 2014"
@@ -44,24 +44,24 @@ navigationLinks:
  # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Expositores"}
-#bottomNavigationLinks:
-# - {permalink: "/#tickets", text: "Regístrate"}
-#rightNavigationButtons:
-# - {permalink: "http://gdayxlima.eventbrite.com", text: "Regístrate"}
+bottomNavigationLinks:
+ - {permalink: "/#tickets", text: "Inscríbete"}
+rightNavigationButtons:
+ - {permalink: "http://gdayxlima.eventbrite.com", text: "Inscríbete"}
 
 # Hero Block
 heroTitle: "GdayxLima <typeout> 2014"
 eventDate: "13 y 14 de Diciembre de 2014"
 typeoutTextValues: '"Emprendimiento", "Empoderamiento", "Negocios"'
 heroButtons:
-# - {url: "https://docs.google.com/forms/d/1egw-Kjo86PivWiu6yUwUW0tyY9jkNTiwU3nFzWK24Fk/viewform", text: "Seja um palestrante"}
+- {permalink: "/#tickets", text: "Inscríbete"}
  
 
 # About Block
 aboutTitle: "Acerca del GDayX"
 aboutBlock:
  - {title: "Google for Business", image: "gdayxlogo.png", text: "El segmento Google for Business se contará con la participación de representantes de productos de Google y expertos en la materia que mediante conferencias y seminarios, estarán compartiendo toda la propuesta estratégica del mundo de negocios utilizando Google y herramientas de internet. Este segmento estará orientado a empresas, instituciones, emprendedores  y agencias del sector de negocios." }
- - {title: "Google for Developers", image: "logodelta.png", text: "En el segmento Google for Developers, se desarrollará la edición DevFest Lima 2014 donde también participarán reconocidos expositores del  canal de Ingeniería de Google y expertos desarrolladores de la región Latinoamerica que brindarán sesiones, codelabs orientados a desarrolladores de software" }
+ - {title: "Google for Developers", image: "logodelta.png", text: "En el segmento Google for Developers, participarán desarrolladores  que brindarán sesiones, codelabs orientados a desarrolladores de software" }
 
 # Statistic Block
 statisticBlock:
@@ -119,7 +119,7 @@ partnersC4sponsorsButtonEn: "Become a sponsor"
 
 
 # Buy Tickets Block
-ticketsTitle: "Inscribete"
+ticketsTitle: "Inscríbete"
 
 ticketsOffers:
 -
