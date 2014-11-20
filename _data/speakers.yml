@@ -17,7 +17,7 @@
   surname: "Villamizar"
   company: "Account Manager-Large Client Strategy  Google"
   title: ""
-  bio: '<p></p>'
+  bio: '<p>Account Manager-Large Client Strategy  Google</p>'
   thumbnailUrl: cvillamizar.jpg
   rockstar: true
   social: 
@@ -29,107 +29,9 @@
   surname: "Lopez"
   company: "Program Manager en Google UK"
   title: ""
-  bio: '<p></p>'
+  bio: '<p>Alvar López es empleado de Google desde 2006 y actualmente trabaja en el equipo de "Outreach" para Mercados Emergentes, radicado en México. Trabaja como Gerente de Programas para Latinoamérica, sobretodo en los programas Google Business Groups y Web Academy. Anteriormente trabajó en el equipo de Calidad de Búsqueda y antes se licenció como Ingeniero en Telecomunicación por la Universitat Pompeu Fabra de Barcelona, España, además de conseguir una maestría en el mismo ámbito. </p>'
   thumbnailUrl: alopez.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AlvarLopez/posts"}
 
-
-- 
-  id: 5
-  name: "Melissa"
-  surname: "Gave"
-  company: "GDG Women Lima"
-  title: ""
-  bio: "Ingeniero en Computación y Sistemas.Organizer del GDG Women Lima."
-  thumbnailUrl: mgave.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
-    - {name: "twitter", link: "https://twitter.com/MelissaGaveM"}
-
-- 
-  id: 8
-  name: "Alvaro"
-  surname: "Huanca"
-  company: "GDG Lima"
-  title: ""
-  bio: "Ingeniero en Computación y Sistemas.  Manager del GDG Lima."
-  thumbnailUrl: ahuanca.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+AlvaroDavid/posts"}
-    - {name: "twitter", link: "https://twitter.com/AlvarDev"}
-
-- 
-  id: 11
-  name: "Zig"
-  surname: "Mandel"
-  company: "Google Developer Expert"
-  title: ""
-  bio: ""
-  thumbnailUrl: zmandel.png
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+ZigMandelCloudware/posts"}
-    - {name: "twitter", link: ""}
-
-
-
-
-- 
-  id: 12
-  name: "Eduardo"
-  surname: "Medina"
-  company: "GDG Lima"
-  title: ""
-  bio: " Especialista en Desarrollo Mòvil ,  Organizer del GDG Lima, Instructor de aplicaciòn mòviles y  Lìder Tècnico Android en OnlinestudioProductions."
-  thumbnailUrl: emedina.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
-    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
-
-
-- 
-  id: 14
-  name: "Gerson"
-  surname: "Nino"
-  company: "GDG Lima"
-  title: ""
-  bio: "Estudiante de Ciencias de la Computación, entusiasta investigador  y Organizador del GDGLima"
-  thumbnailUrl: gnino.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+GersonNi%C3%B1oDiaz/posts"}
-    - {name: "twitter", link: "https://twitter.com/07Gond"}
-
-
-- 
-  id: 22
-  name: "Urbina"
-  surname: "Diego"
-  company: "GDG  Lima"
-  title: ""
-  bio: "Ingeniero de Sistemas e investigador. Google Apps Deployment Specialist. Manager del GDG Lima."
-  thumbnailUrl: durbina.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+DiegoUrbinaLopez/posts"}
-    - {name: "twitter", link: "https://twitter.com/AlevanDie"}
-
-
-
-- 
-  id: 25
-  name: "Milton"
-  surname: "Yarleque"
-  company: "Organizador GDG Lima"
-  title: ""
-  bio: "Desarrolador. IT Specialist en IBM del Perú. Organizador en GDG Lima .Con experiencia en diferentes rubros como banca ,aviacion comercial, industria farmacéutica y telecomunicaciones."
-  thumbnailUrl: myarleque.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+MiltonYarleque/posts"}
-    - {name: "twitter", link: "https://twitter.com/myarleq"}

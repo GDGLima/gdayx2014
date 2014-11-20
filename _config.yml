@@ -6,7 +6,6 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "Gdayx Lima 2014"
-emailGBG: "gbglimape@gmail.com"
 emailGDG: "gdglima@gmail.com"
 description: "GdayxLima 2014"
 baseurl: ""
@@ -79,7 +78,7 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "+Expositores"
 
 # Location Block
-locationBlockTitle: "Local"
+locationBlockTitle: "Ubicación"
 eventLocationName: "USMP - Facultad de Ingeniería y Arquitectura"
 eventLocationLink: ""
 eventStreetAddress: "Av. La Fontana 1250 Urb. Sta. Patricia 2da Etapa La Molina"
@@ -101,7 +100,7 @@ mapMobileCenterCoordinates: "-12.0723315,-76.94166519999999"
 
 # Tweets Feed Block
 tweetsFeedTitle: "¡Interactúa con nosotros!"
-twitterHashTag: "gdayx"
+twitterHashTag: "gdayxlima"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -148,8 +147,7 @@ footerBlocks:
   title: "Contacto"
   links:
    - {link: "mailto:gdglima@gmail.com", text: "gdglima@gmail.com"}
-   - {link: "mailto:gbglimape@gmail.com", text: "gbglimape@gmail.com"}
-
+  
 
 # Blog
 blogTitle: "Últimas novidades"
