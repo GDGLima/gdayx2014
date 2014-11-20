@@ -1,10 +1,12 @@
 - 
-  group: "Main organizer"
+  group: "Comunidades"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "GDG Lima", description: "GDG Lima - Difunde, comparte y promueve tecnología Google", link: "https://plus.google.com/+gdglimape/posts", imageUrl: "gdglima.jpg"}
+    - {name: "GBG Lima", description: "GBG Lima - Conecta - Informa - Inspira", link: "https://plus.google.com/u/0/103607234084788626166/about", imageUrl: "gbglima.png"}
+    - {name: "GDGW Lima", description: "GDGW Lima - Difunde, comparte y promueve tecnología Google", link: "https://plus.google.com/+GDGWomenLima/posts", imageUrl: "gdgwomenlima.jpg"}
+#- 
+#  group: "Co-organizers"
+#  elements: 
+#    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
+#    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+#    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}

@@ -9,7 +9,8 @@
                     <ul>
                         {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
                         <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
-                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                        <li><a href="mailto:{{ site.emailGBG }}">{{ site.emailGBG }}</a></li>
+                        <li><a href="mailto:{{ site.emailGDG }}">{{ site.emailGDG }}</a></li>
                         <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}
                             <time>{{ startTime[1] }}</time> -

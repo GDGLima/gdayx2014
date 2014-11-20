@@ -6,7 +6,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "Gdayx 2014"
-email: "gbglima@gmail.com"
+emailGBG: "gbglimape@gmail.com"
+emailGDG: "gdglima@gmail.com"
 description: "GdayxLima 2014"
 baseurl: ""
 url: "http://gdayx.pe"
@@ -50,7 +51,7 @@ navigationLinks:
 
 # Hero Block
 heroTitle: "GdayxLima <typeout> 2014"
-eventDate: "13  de Diciembre de 2014"
+eventDate: "13 y 14 de Diciembre de 2014"
 typeoutTextValues: '"Emprendimiento", "Empoderamiento", "Negocios"'
 heroButtons:
 # - {url: "https://docs.google.com/forms/d/1egw-Kjo86PivWiu6yUwUW0tyY9jkNTiwU3nFzWK24Fk/viewform", text: "Seja um palestrante"}
@@ -141,6 +142,7 @@ footerBlocks:
  -
   title: "Grupos"
   links:
+   - {link: "https://plus.google.com/+gdglimape/posts", text: "GDG Lima"}
    - {link: "https://plus.google.com/103607234084788626166/posts", text: "GBG Lima"}
  -
   title: "Contacto"
