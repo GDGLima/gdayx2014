@@ -1,7 +1,6 @@
 - 
   group: "Sponsors"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "USMP", description: "Universidad de San Martín de Porres", link: "usmp.edu.pe", imageUrl: "logo_usmp_campus.png"}
     - {name: "TECNEWS", description: "Entrevistas, artículos, lanzamientos, reviews, noticias y todo lo que necesitas saber sobre la actualidad tecnológica del Perú y del Mundo.", link: "http://tecnews.pe/", imageUrl: "tecnewspe.png"}
     - {name: "Technopatas", description: "Tecnología para mentes de otra dimensión", link: "http://technopatas.com/", imageUrl: "technopatas1.jpg"}

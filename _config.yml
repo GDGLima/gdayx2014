@@ -65,17 +65,18 @@ aboutBlock:
 
 # Statistic Block
 statisticBlock:
- - {count: "20", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
- #- {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "sesiones en paralelo", detail: "interactivas"}
+- {count: "250", specialCharacter: "+", info: "participantes", detail: "en un solo lugar"}
+- {count: "20", specialCharacter: "+", info: "expositores", detail: "de diferentes ciudades"}
+- {count: "20", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
+- {count: "2", specialCharacter: "", info: "sesiones en paralelo", detail: "interactivas"}
 
 # Latest News Block
 latestNewsTitle: "Últimas Notícias"
 
 # Rockstar Speakers Block
 rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Rockstar"
-rockstarSpeakersButtonText: "Ver +Expositores"
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "+Expositores"
 
 # Location Block
 locationBlockTitle: "Local"

@@ -216,8 +216,34 @@
 			
             
             
-            <div class="col-md-6 col-xs-6">  
+            <div class="col-md-3 col-xs-6">  
                 <div class="counter animated hiding" data-animation="fadeInDown" data-delay="0">
+                    <div class="stat"><span class="timer" data-from="0" data-to="250">250</span>+</div>
+					<div class="stat-info">participantes</div>
+					<hr>
+					<p class="small">en un solo lugar</p>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            <div class="col-md-3 col-xs-6">  
+                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="500">
+                    <div class="stat"><span class="timer" data-from="0" data-to="20">20</span>+</div>
+					<div class="stat-info">expositores</div>
+					<hr>
+					<p class="small">de diferentes ciudades</p>
+                </div>
+            </div>
+            
+            
+             <div class="clearfix visible-xs"></div> 
+            
+            
+            <div class="col-md-3 col-xs-6">  
+                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="1000">
                     <div class="stat"><span class="timer" data-from="0" data-to="20">20</span>+</div>
 					<div class="stat-info">horas</div>
 					<hr>
@@ -229,8 +255,8 @@
             
             
             
-            <div class="col-md-6 col-xs-6">  
-                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="500">
+            <div class="col-md-3 col-xs-6">  
+                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="1500">
                     <div class="stat"><span class="timer" data-from="0" data-to="2">2</span></div>
 					<div class="stat-info">sesiones en paralelo</div>
 					<hr>
@@ -250,10 +276,10 @@
 	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
-			<h3 id="rockstar-speaker-title">Rockstar</h3>
+			<h3 id="rockstar-speaker-title">Rockstar speakers</h3>
 			<div class="clearfix"></div> 
 			<span class="bordered">
-				<a href="/speakers/" class="bottom-section-link waves-effect waves-button waves-light ">Ver +Expositores</a>
+				<a href="/speakers/" class="bottom-section-link waves-effect waves-button waves-light ">+Expositores</a>
 			</span>
 		</div>
 	</div>
@@ -325,12 +351,6 @@
             
             <h5>Sponsors</h5>
             <ul class="list-inline">
-                
-                <li class="">
-                    <a href="https://www.google.com.ua/intl/en/about/" target="_blank">
-                        <img src="/img/partners/google.svg" title="Google" alt="Google" >
-                    </a>
-                </li>
                 
                 <li class="">
                     <a href="usmp.edu.pe" target="_blank">
@@ -480,19 +500,21 @@
                 var rockstarSpeakers = [
                     
                         
-                        {name: "Nicole Eckfeldt Alberti", company: "Google", image: "/img/speakers/neckfeldt.jpg"},
+                        {name: "Nicole Eckfeldt Alberti", company: "Account Manager en Google", image: "/img/speakers/neckfeldt.jpg"},
                         
                     
                         
-                        {name: "Cynthia Villamizar", company: "Google", image: "/img/speakers/cvillamizar.jpg"},
+                        {name: "Cynthia Villamizar", company: "Account Manager-Large Client Strategy  Google", image: "/img/speakers/cvillamizar.jpg"},
+                        
+                    
+                        
+                        {name: "Alvar Lopez", company: "Program Manager en Google UK", image: "/img/speakers/alopez.jpg"},
                         
                     
                         
                     
                         
                     
-                        
-                        {name: "Zig Mandel", company: "Google Developer Expert", image: "/img/speakers/zmandel.png"},
                         
                     
                         
@@ -582,7 +604,7 @@
             "jobTitle" : "",
             "worksFor" : {
                 "@type" : "Organization",
-                "name" : "Google"
+                "name" : "Account Manager en Google"
             },
             "sameAs" : "https://www.linkedin.com/pub/cynthia-villamizar/14/12b/2a"
         },
@@ -594,9 +616,21 @@
             "jobTitle" : "",
             "worksFor" : {
                 "@type" : "Organization",
-                "name" : "Google"
+                "name" : "Account Manager-Large Client Strategy  Google"
             },
             "sameAs" : "https://www.linkedin.com/pub/cynthia-villamizar/14/12b/2a"
+        },
+        
+        {
+            "@type" : "Person",
+            "name" : "Alvar Lopez",
+            "image" : "http://gdayx.pe/img/speakers/alopez.jpg",
+            "jobTitle" : "",
+            "worksFor" : {
+                "@type" : "Organization",
+                "name" : "Program Manager en Google UK"
+            },
+            "sameAs" : "https://plus.google.com/u/0/+AlvarLopez/posts"
         },
         
         {
