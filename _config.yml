@@ -43,6 +43,7 @@ navigationLinks:
  # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Expositores"}
+ - {permalink: "http://gdayxlima.eventbrite.com", text: "Inscríbete"}
 bottomNavigationLinks:
  - {permalink: "/#tickets", text: "Inscríbete"}
 rightNavigationButtons:
