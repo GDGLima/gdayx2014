@@ -49,9 +49,9 @@ rightNavigationButtons:
  - {permalink: "http://gdayxlima.eventbrite.com", text: "Inscríbete"}
 
 # Hero Block
-heroTitle: "GdayxLima <typeout> 2014"
+heroTitle: "Google para <typeout> 2014"
 eventDate: "13 y 14 de Diciembre de 2014"
-typeoutTextValues: '"Emprendimiento", "Empoderamiento", "Negocios"'
+typeoutTextValues: '"Emprendedores", "Desarrolladores", "Negocios"'
 heroButtons:
 - {permalink: "/#tickets", text: "Inscríbete"}
  
@@ -59,8 +59,8 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca del GDayX"
 aboutBlock:
- - {title: "Google for Business", image: "gdayxlogo.png", text: "El segmento Google for Business se contará con la participación de representantes de productos de Google y expertos en la materia que mediante conferencias y seminarios, estarán compartiendo toda la propuesta estratégica del mundo de negocios utilizando Google y herramientas de internet. Este segmento estará orientado a empresas, instituciones, emprendedores  y agencias del sector de negocios." }
- - {title: "Google for Developers", image: "logodelta.png", text: "En el segmento Google for Developers, participarán desarrolladores  que brindarán sesiones, codelabs orientados a desarrolladores de software" }
+ - {title: "GdayX Lima for Entrepreneurs", image: "gdayxlogo.png", text: "El GDayX Lima 2014 es un evento de fin de semana orientado en Emprendedores, Desarrolladores, Diseñadores y personas de Negocios  interesados en aprender y mejorar sus conocimientos en emprendimiento, startups  y conocer  mediante conferencias, workshops , talleres dinámicos las mejores prácticas y uso de tecnologías Google en emprendimientos tecnológicos." }
+ - {title: "Google for Business & Developers", image: "logodelta.png", text: "El evento tendrá 3 segmentos importantes: Emprende con éxito donde se tocarán temas de Startup, Lean startup, mejores prácticas y experiencias. Google for Business donde contaremos con la presencia de representantes de productos de Google que estarán compartiendo toda la propuesta estratégica del mundo de negocios utilizando Google y herramientas de internet.  Google for Developers donde se desarrollarán aspectos claves del mundo de Cloud Computing, Web, Mobile, Wearable Computing e innovación para el desarrollo de software." }
 
 # Statistic Block
 statisticBlock:
