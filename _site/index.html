@@ -311,7 +311,6 @@
                 <div class="tickets-row animated hiding" data-animation="fadeInDown" data-delay="0">
 	            	<div class="row">
 						
-						
 						<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=14484145469&ref=etckt" frameborder="0" height="306" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Registro de eventos online</a><span style="color:#ddd;"> para </span><a style="color:#ddd; text-decoration:none;" target="_blank" href="https://gdayxlima.eventbrite.com/?ref=etckt">GdayX Lima for Entrepreneurs</a> <span style="color:#ddd;">ofrecido por</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
 					</div>
 				</div>
@@ -543,14 +542,18 @@
                         
                     
                         
-                        {name: "Alvar Lopez", company: "Program Manager en Google UK", image: "/img/speakers/alopez.jpg"}
+                        {name: "Alvar López", company: "Program Manager en Google UK", image: "/img/speakers/alopez.jpg"},
+                        
+                    
+                        
+                        {name: "Miguel Gonzáles", company: "Head of Digital Innovation - BBVA Colombia", image: "/img/speakers/miguel.jpg"}
                         
                     
                 ];
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = 3,
+                        count = 4,
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         $('#rockstar-speaker-title').after('<div class="col-md-'+ colWidth +' col-xs-6 rockstar-speakers-item animated hiding" data-animation="fadeInUp" data-delay="' + animationDelay +'"><div class="rockstar-speaker"><div class="flow-img img-circle rockstar-speaker-img" style="background-image: url(' + rockstarSpeakers[i].image + ')"></div><div class="name">' + rockstarSpeakers[i].name + '</div><div class="sub">' + rockstarSpeakers[i].company + '</div></div></div>');
@@ -634,7 +637,7 @@
         
         {
             "@type" : "Person",
-            "name" : "Alvar Lopez",
+            "name" : "Alvar López",
             "image" : "http://gdayx.pe/img/speakers/alopez.jpg",
             "jobTitle" : "",
             "worksFor" : {
@@ -642,6 +645,18 @@
                 "name" : "Program Manager en Google UK"
             },
             "sameAs" : "https://plus.google.com/u/0/+AlvarLopez/posts"
+        },
+        
+        {
+            "@type" : "Person",
+            "name" : "Miguel Gonzáles",
+            "image" : "http://gdayx.pe/img/speakers/miguel.jpg",
+            "jobTitle" : "",
+            "worksFor" : {
+                "@type" : "Organization",
+                "name" : "Head of Digital Innovation - BBVA Colombia"
+            },
+            "sameAs" : "https://plus.google.com/u/0/+MiguelGonzalezHerranz/posts"
         }
           
         ],

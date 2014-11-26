@@ -26,7 +26,7 @@
 - 
   id: 102
   name: "Alvar"
-  surname: "Lopez"
+  surname: "López"
   company: "Program Manager en Google UK"
   title: ""
   bio: '<p>Alvar López es empleado de Google desde 2006 y actualmente trabaja en el equipo de "Outreach" para Mercados Emergentes, radicado en México. Trabaja como Gerente de Programas para Latinoamérica, sobretodo en los programas Google Business Groups y Web Academy. Anteriormente trabajó en el equipo de Calidad de Búsqueda y antes se licenció como Ingeniero en Telecomunicación por la Universitat Pompeu Fabra de Barcelona, España, además de conseguir una maestría en el mismo ámbito. </p>'
@@ -34,4 +34,18 @@
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AlvarLopez/posts"}
+
+- 
+  id: 103
+  name: "Miguel"
+  surname: "Gonzáles"
+  company: "Head of Digital Innovation - BBVA Colombia"
+  title: ""
+  bio: '<p>Nacido en Madrid. Ingeniero superior de telecomunicación por la Universidad Politécnica de Madrid y por TELECOM ParisTech (París, Francia). Desarrolla una carrera profesional puramente internacional que comienza en 2009 en París en el seno de Telefónica como parte del primer equipo que establece esta multinacional en Francia. En 2010 se traslada a Dublín para trabajar en Google dentro del área de producto y operaciones como Product Specialist y posteriormente como Technical Strategist. Tras tres años, en 2013, comienza a trabajar como ingeniero de Google y se traslada a Bogotá (Colombia) para liderar el departamento de Mercados Emergentes en Colombia, Argentina y Perú. En este puesto su misión se centra en desarrollar y potenciar la utilización de internet y de las nuevas tecnologías en esta región.</p>'
+  thumbnailUrl: miguel.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MiguelGonzalezHerranz/posts"}
+
+
 
