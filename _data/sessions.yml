@@ -32,7 +32,7 @@
   title: "Bienvenida al GDAYX/Presentacion del GBG y formato GBGW"
   description: "Bienvenida al GDAYX/Presentacion del GBG y formato GBGW"
   subtype: presentation
-  speakers: [44]
+  speakers: []
   language: es
   complexity: ""
 
@@ -261,6 +261,6 @@
   title: "Google Style for Entrepreneurs"
   description: "Google Style for Entrepreneurs"
   subtype: presentation
-  speakers: [23]
+  speakers: [51]
   language: es
   complexity: ""

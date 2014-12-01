@@ -4,7 +4,7 @@
   name: "Nicole"
   surname: "Eckfeldt Alberti"
   company: "Account Manager en Google"
-  title: ""
+  title: "Account Manager en Google"
   bio: 'Se desempeña como Account Manager en Google en el área de Large Customer Sales. Graduada en Administración de Empresas en la U.Pacífico en el 2011 y su experiencia en los últimos años ha sido en Consultoría de negocios y Marketing y Trade Marketing en productos de consumo masivo'
   thumbnailUrl: neckfeldt.jpg
   rockstar: true
@@ -16,7 +16,7 @@
   name: "Cynthia"
   surname: "Villamizar"
   company: "Account Manager-Large Client Strategy  Google"
-  title: ""
+  title: "Account Manager-Large Client Strategy  Google"
   bio: '<p>Cynthia Villamizar es una Account Manager actualmente de rotation con el equipo de Google Perú trabajando con anunciantes y agencias de performance. Esta llegando a Perú después de trabajar en la casa matriz en Mt. View, California, en Bogota y Mexico D.F.  y le interesa aportar al crecimiento de los mercados en Latino América. Cynthia es una gringa con padre Colombiano, madre Ecuatoriana y que está actualmente explorando las diferencia entre un ceviche bueno y uno malazo.</p>'
   thumbnailUrl: cvillamizar.jpg
   rockstar: true
@@ -28,7 +28,7 @@
   name: "Alvar"
   surname: "López"
   company: "Program Manager en Google UK"
-  title: ""
+  title: "Program Manager en Google UK"
   bio: '<p>Alvar López es empleado de Google desde 2006 y actualmente trabaja en el equipo de "Outreach" para Mercados Emergentes, radicado en México. Trabaja como Gerente de Programas para Latinoamérica, sobretodo en los programas Google Business Groups y Web Academy. Anteriormente trabajó en el equipo de Calidad de Búsqueda y antes se licenció como Ingeniero en Telecomunicación por la Universitat Pompeu Fabra de Barcelona, España, además de conseguir una maestría en el mismo ámbito. </p>'
   thumbnailUrl: alopez.jpg
   rockstar: true
@@ -40,90 +40,12 @@
   name: "Miguel"
   surname: "González"
   company: "Head of Digital Innovation - BBVA Colombia"
-  title: ""
+  title: "Head of Digital Innovation - BBVA Colombia"
   bio: '<p>Nacido en Madrid. Ingeniero superior de telecomunicación por la Universidad Politécnica de Madrid y por TELECOM ParisTech (París, Francia). Desarrolla una carrera profesional puramente internacional que comienza en 2009 en París en el seno de Telefónica como parte del primer equipo que establece esta multinacional en Francia. En 2010 se traslada a Dublín para trabajar en Google dentro del área de producto y operaciones como Product Specialist y posteriormente como Technical Strategist. Tras tres años, en 2013, comienza a trabajar como ingeniero de Google y se traslada a Bogotá (Colombia) para liderar el departamento de Mercados Emergentes en Colombia, Argentina y Perú. En este puesto su misión se centra en desarrollar y potenciar la utilización de internet y de las nuevas tecnologías en esta región.</p>'
   thumbnailUrl: mgonzales.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+MiguelGonzalezHerranz/posts"}
-
-
-#panel de statup
-
-- 
-  id: 5
-  name: "Diego"
-  surname: "Arburu"
-  company: ""
-  title: "CEO de Turismoi"
-  bio: '<p>Ganador de los concursos Wayra y Ventura Madrid</p>'
-  thumbnailUrl: darburu.jpeg
-  pstartup: true
-  social: 
-    - {name: "site", link: "http://turismoi.pe/"}
-
-- 
-  id: 6
-  name: "Rolando"
-  surname: "Cruzado"
-  company: ""
-  title: "CEO de Plaza Petz"
-  bio: '<p>CEO de Plaza Petz, - el primer market place digital para pet lovers" y Founder del Product Development & Management Association - organización global enfocada en promover mejores prácticas globales en gestión e innovación de productos. Desde el campo de emprendimiento digital, he asesorado cientos de startups en Perú, he logrado estar entre los finalistas globales del Desafío Intel 2014, asesorado cientos de startups y Evangelist del Global International Startup Network de AIESEC Alumni International en 152 países</p>'
-  thumbnailUrl: rcruzado.jpg
-  pstartup: true
-  social: 
-    - {name: "site", link: "http://plazapetz.com/"}
-
-
-- 
-  id: 7
-  name: "Alvaro"
-  surname: "Mur"
-  company: ""
-  title: "CEO de sacateun20"
-  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
-  thumbnailUrl: amur.jpg
-  pstartup: true
-  social: 
-    - {name: "site", link: "http://sacateun20.pe/"}
-
-
-- 
-  id: 8
-  name: "Mariana"
-  surname: "Costa Checa"
-  company: ""
-  title: "CEO de laboratoria"
-  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
-  thumbnailUrl: mcheca.jpg
-  pstartup: true
-  social: 
-    - {name: "site", link: "http://laboratoria.la/"}
-
-- 
-  id: 9
-  name: "Julio"
-  surname: "Chullunquia"
-  company: ""
-  title: "CEO de tegalo"
-  bio: '<p>Tegalo es la aplicación que permite enviar y recibir detalles gratuitos a través de un Smartphone.</p>'
-  thumbnailUrl: jchullunquia.jpg
-  pstartup: true
-  social: 
-    - {name: "site", link: "http://tegalo.com/web/"}
-
-
-- 
-  id: 10
-  name: "Jose "
-  surname: "Arellano"
-  company: ""
-  title: "CEO de MonkeyFit"
-  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
-  thumbnailUrl: jorellano.jpg
-  pstartup: true
-  social: 
-    - {name: "site", link: "http://www.monkeyfitapp.com/"}
 
 
 
@@ -160,7 +82,7 @@
   id: 13
   name: "Diego"
   surname: "Martinez"
-  company: ""
+  company: "Analista en Cloudware 360"
   title: "Analista de Requerimientos y Desarrollo en Cloudware 360"
   bio: 'Ingeniero de Sistemas especializado en Cloud Computing y Tecnologías Google.Google Apps Certified Sales Specialist. Google Educator (Google Apps & Chrome) Google Apps Certified Administrator'
   thumbnailUrl: dmartinez.png
@@ -216,7 +138,7 @@
   name: "Gerson"
   surname: "Nino"
   company: "GDG Lima"
-  title: "Organizador GDG Lima"
+  title: "Developer en Grupo Formax"
   bio: "Estudiante de Ciencias de la Computación, entusiasta investigador  y Organizador del GDGLima"
   thumbnailUrl: gnino.jpg
   pdev: true
@@ -230,7 +152,7 @@
   name: "Eduardo"
   surname: "Medina"
   company: "GDG Lima"
-  title: "Organizador GDG Lima"
+  title: "Lider Técnico en OnlinestudioProductions"
   bio: " Especialista en Desarrollo Mòvil ,  Organizer del GDG Lima, Instructor de aplicaciòn mòviles y  Lìder Tècnico Android en OnlinestudioProductions."
   thumbnailUrl: emedina.jpg
   pdev: true
@@ -258,7 +180,7 @@
   name: "Urbina"
   surname: "Diego"
   company: ""
-  title: "Manager GDG Lima"
+  title: "Organizador GDG Lima"
   bio: "Ingeniero de Sistemas e investigador. Google Apps Deployment Specialist. Manager del GDG Lima."
   thumbnailUrl: durbina.jpg
   pdev: true
@@ -272,7 +194,7 @@
   name: "Alvaro"
   surname: "Huanca"
   company: "GDG Lima"
-  title: ""
+  title: "Desarrollador en Cloudware 360"
   bio: "Ingeniero en Computación y Sistemas.  Manager del GDG Lima."
   thumbnailUrl: ahuanca.jpg
   pdev: true
@@ -285,28 +207,13 @@
   name: "Carlos"
   surname: "Piñan"
   company: ""
-  title: "Organizador GDG  Lima"
+  title: "Analista Desarrollador en NorthSouth Studios"
   bio: 'Desarrollador de juego. Analista desarrollador en NorthSouth Studios.'
   thumbnailUrl: cpinan.jpg
   pdev: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+CarlosEduardoPinanIndacochea/posts"}
     - {name: "twitter", link: "https://twitter.com/carlospinan"}
-
-- 
-  id: 23
-  name: "Juan Jose"
-  surname: "Rodriguez"
-  company: ""
-  title: "Country Champion Perú"
-  bio: ''
-  thumbnailUrl: jrodriguez.jpg
-  pdev: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+juanjoserodriguez/posts"}
-    - {name: "twitter", link: "https://twitter.com/jrodriguezv10"}
-
-
 
 
 
@@ -358,7 +265,7 @@
   name: "Roxana"
   surname: "Panaque"
   company: ""
-  title: "Manager GDG Women Lima"
+  title: "Organizadora GDG Women Lima"
   bio: 'Manager del GDG Women Lima y Organizer del  GDG Lima e integrante como miembro promotor de tecnología Google en Perú.Estudiante de ingeniería de Sistemas de la Universidad Tecnológica del Perú. Ha participado de los eventos Google I/O Extended Perú 2012 , DevFest Lima , DevFest Women Lima , entre otros.'
   thumbnailUrl: rpanaque.jpg
   pdev: true
@@ -388,7 +295,7 @@
   name: "Cesar"
   surname: "Cruz"
   company: "IEEE USMP"
-  title: ""
+  title: "IEEE USMP"
   bio: ''
   thumbnailUrl: noimage.jpg
   pdev: true
@@ -408,11 +315,13 @@
 
 #negocios
 
+
+
 - 
   id: 41
   name: "Miguel"
   surname: "Burriel"
-  company: ""
+  company: "Mentor en Startup Academy"
   title: "Mentor en Startup Academy"
   bio: '<p>Docente at Universidad Peruana de Ciencias Aplicadas, Coordinador de Startup Academy y fundador de Bodatips.</p>'
   thumbnailUrl: mburiel.jpg
@@ -425,7 +334,7 @@
   id: 42
   name: "Naut"
   surname: "Aguilera Echevarría"
-  company: ""
+  company: "CEO de Evolutiva"
   title: "CEO de Evolutiva"
   bio: '<p>Especialista en Neuromarketing y Psico antropología del Consumo, Embajador Líder de BIIA LAB y fundador del Colectivo Vitamina Y.</p>'
   thumbnailUrl: naguilera.jpg
@@ -437,7 +346,7 @@
   id: 43
   name: "Sergio"
   surname: "Nouvel"
-  company: ""
+  company: "Director de UX en Continuum"
   title: "Director de UX en Continuum"
   bio: '<p>Sergio es Director en Perú de Continuum, una boutique de Experiencia de Usuario y desarrollo de productos y servicios digitales. Además es Co-fundador de Get on Board, el portal especializado en empleos digitales en Latinoamérica. Junto a Continuum ha creado Scope Canvas, una herramienta para desarrollar proyectos en base a Lean UX. Sus artículos sobre innovación y UX han sido publicados en Mashable, UX Magazine y Pulso Social.</p>'
   thumbnailUrl: snouvel.jpg
@@ -445,17 +354,83 @@
   social: 
     - {name: "linkedin", link: "pe.linkedin.com/pub/naut-aguilera-echevarria/26/5a6/2ba"}
 
+
+#panel de statup
 - 
-  id: 44
-  name: "Mellisa"
-  surname: "Gave"
+  id: 46
+  name: "Diego"
+  surname: "Arburu"
   company: ""
-  title: "Manager GBG Lima"
-  bio: '<p>Systems Engineer with experience in process modeling and project management using agile methodologies. With capacity of leadership, innovation, creativity, perseverance, good level of analysis and synthesizing, and tolerance to work under pressure.</p>'
-  thumbnailUrl: mgave.jpg
+  title: "CEO de Turismoi"
+  bio: '<p>Ganador de los concursos Wayra y Ventura Madrid</p>'
+  thumbnailUrl: darburu.jpeg
   pbus: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+MelissaGave/posts"}
+    - {name: "site", link: "http://turismoi.pe/"}
+
+- 
+  id: 47
+  name: "Rolando"
+  surname: "Cruzado"
+  company: ""
+  title: "CEO de Plaza Petz"
+  bio: '<p>CEO de Plaza Petz, - el primer market place digital para pet lovers" y Founder del Product Development & Management Association - organización global enfocada en promover mejores prácticas globales en gestión e innovación de productos. Desde el campo de emprendimiento digital, he asesorado cientos de startups en Perú, he logrado estar entre los finalistas globales del Desafío Intel 2014, asesorado cientos de startups y Evangelist del Global International Startup Network de AIESEC Alumni International en 152 países</p>'
+  thumbnailUrl: rcruzado.jpg
+  pbus: true
+  social: 
+    - {name: "site", link: "http://plazapetz.com/"}
+
+
+- 
+  id: 48
+  name: "Alvaro"
+  surname: "Mur"
+  company: ""
+  title: "CEO de Sacateun20"
+  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
+  thumbnailUrl: amur.jpg
+  pbus: true
+  social: 
+    - {name: "site", link: "http://sacateun20.pe/"}
+
+
+- 
+  id: 49
+  name: "Mariana"
+  surname: "Costa Checa"
+  company: ""
+  title: "CEO de Laboratoria"
+  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
+  thumbnailUrl: mcheca.jpg
+  pbus: true
+  social: 
+    - {name: "site", link: "http://laboratoria.la/"}
+
+- 
+  id: 50
+  name: "Julio"
+  surname: "Chullunquia"
+  company: ""
+  title: "CEO de Tegalo"
+  bio: '<p>Tegalo es la aplicación que permite enviar y recibir detalles gratuitos a través de un Smartphone.</p>'
+  thumbnailUrl: jchullunquia.jpg
+  pbus: true
+  social: 
+    - {name: "site", link: "http://tegalo.com/web/"}
+
+
+- 
+  id: 51
+  name: "Juan Jose"
+  surname: "Rodriguez"
+  company: "Country Champion Perú"
+  title: 'Country Champion Perú'
+  bio: 'Graduated in System and Computer Engineering - Universidad Tecnológica del Perú (2011), with a International Degree in Solutions Development using Google Cloud - Universidad de San Martín de Porres (2012), Founder and Country Manager of the communities Google Business Groups Perú, IT Manager at Cloudware360 - Google Enterprise Partner based in Perú & Ecuador, Manager of the software development community Google Developer Group Lima. International Certifications: Certified Scrum Product Owner (2014) Certified ScrumMaster (2013), Google Apps Certified Sales Specialist (2014) Google Apps Certified Administrator (2014) and Google for Education Qualified in: Google Apps & Chrome & Chrome for Business & Android (2014). Author of the book “Virtual organizations: new tools to improve productivity of employees” ISBN: 978-612-4088-47-6 (2012), participant at the principal technology events as: Google I/O 2014, Google I/O 2013 in San Francisco - USA, speaker in various international events of business, technology, education and innovation, for example: XII International Virtual Educa México 2011, XIII International Virtual Educa Panama 2012, Google for Business and Developer Festival Lima 2013, Google DayX for Startups Lima 2014, etc. Experience at Computer Science and Management of Information Technology, emphasis on Analysis, Design Solutions and Project Management of Software Development, mainly on the following topics: Cloud Computing, Mobile, Web, E-Learning, Mobile Learning, Wearables, Web 2.0, E-Business, E-Commerce, Startups, Entrepreneurs, Google.'
+  thumbnailUrl: jrodriguez.jpg
+  pbus: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+juanjoserodriguez/posts"}
+    - {name: "twitter", link: "https://twitter.com/jrodriguezv10"}
 
 
 
