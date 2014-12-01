@@ -25,3 +25,242 @@
   place: "Hall"
   service: true
 
+
+-
+
+  id: 001
+  title: "Bienvenida al GDAYX/Presentacion del GBG y formato GBGW"
+  description: "Bienvenida al GDAYX/Presentacion del GBG y formato GBGW"
+  subtype: presentation
+  speakers: [44]
+  language: es
+  complexity: ""
+
+-
+
+  id: 002
+  title: "Workshop: Cómo Crear un Plan de Empresa aplicando el Modelo Canvas y Lean Startup"
+  description: "Workshop: Cómo Crear un Plan de Empresa aplicando el Modelo Canvas y Lean Startup"
+  subtype: presentation
+  speakers: [41]
+  language: es
+  complexity: ""
+
+-
+  id: 003
+  title: "Neuro Marketing para Emprendedores"
+  description: "Neuro Marketing para Emprendedores"
+  subtype: presentation
+  speakers: [42]
+  language: es
+  complexity: ""
+
+
+-
+  id: 004
+  title: "Workshop Think Design"
+  description: "Workshop Think Design"
+  subtype: presentation
+  speakers: [103]
+  language: es
+  complexity: ""
+
+-
+  id: 006
+  title: "Workshop: Scope Canvas "
+  description: "Workshop: Scope Canvas "
+  subtype: presentation
+  speakers: [43]
+  language: es
+  complexity: ""
+
+-
+  id: 007
+  title: "KeyNote 1"
+  description: ""
+  subtype: presentation
+  speakers: [101]
+  language: es
+  complexity: ""
+
+-
+  id: 008
+  title: "KeyNote 2"
+  description: ""
+  subtype: presentation
+  speakers: [100]
+  language: es
+  complexity: ""
+
+-
+  id: 009
+  title: "Panel de startups"
+  description: ""
+  subtype: presentation
+  speakers: [5,6,7,8,9,10]
+  language: es
+  complexity: ""
+
+-
+  id: 010
+  title: "Introducción a Compute Engine en Google Cloud Platform"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+  language: es
+  complexity: ""
+
+-
+  id: 041
+  title: "Ahorra Tiempo y Dinero Automatizando tareas SEO y SEM con Google Scripts"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+  language: es
+  complexity: ""
+
+-
+  id: 012
+  title: "Workshop: Desarrollo de producto y como fallar rapido"
+  description: ""
+  subtype: presentation
+  speakers: [14]
+  language: es
+  complexity: ""
+
+-
+  id: 013
+  title: "Prototipo en impresión 3D"
+  description: "Prototipo en impresión 3D"
+  subtype: presentation
+  speakers: [30]
+  language: es
+  complexity: ""
+
+-
+  id: 014
+  title: "Neo Robot"
+  description: "Neo Robot"
+  subtype: presentation
+  speakers: [31]
+  language: es
+  complexity: ""
+
+-
+  id: 015
+  title: "Crear Aplicaciones Multimedia para Android"
+  description: "Crear Aplicaciones Multimedia para Android"
+  subtype: presentation
+  speakers: [18]
+  language: es
+  complexity: ""
+
+-
+  id: 016
+  title: "Workshop: Google Apps Deployment"
+  description: "Workshop: Google Apps Deployment"
+  subtype: presentation
+  speakers: [13,20]
+  language: es
+  complexity: ""
+
+-
+  id: 017
+  title: "Desarrollando para Google Cardboard"
+  description: "Desarrollando para Google Cardboard"
+  subtype: presentation
+  speakers: [21]
+  language: es
+  complexity: ""
+
+
+
+-
+  id: 018
+  title: "Desarrollando para Android Wear"
+  description: "Desarrollando para Android Wear"
+  subtype: presentation
+  speakers: [19]
+  language: es
+  complexity: ""
+
+
+-
+  id: 019
+  title: "Aprendiendo hacer juegos con Scratch"
+  description: "Aprendiendo hacer juegos con Scratch"
+  subtype: presentation
+  speakers: [15]
+  language: es
+  complexity: ""
+
+
+-
+  id: 021
+  title: "¿Qué es Material Design?  ¿Cómo lo uso?"
+  description: "¿Qué es Material Design?  ¿Cómo lo uso?"
+  subtype: presentation
+  speakers: [25,26]
+  language: es
+  complexity: ""
+
+
+-
+  id: 022
+  title: "Aprendiendo Polymer"
+  description: "Aprendiendo Polymer"
+  subtype: presentation
+  speakers: [17]
+  language: es
+  complexity: ""
+
+
+-
+  id: 023
+  title: "Conociendo un poco de Dart"
+  description: "Conociendo un poco de Dart"
+  subtype: presentation
+  speakers: [27,28,29]
+  language: es
+  complexity: ""
+
+-
+  id: 024
+  title: "Conoce y aprende sobre Drones"
+  description: "Conoce y aprende sobre Drones"
+  subtype: presentation
+  speakers: [1]
+  language: es
+  complexity: ""
+
+
+
+-
+  id: 025
+  title: "¿Cómo crear un juego con Android Studio?"
+  description: "¿Cómo crear un juego con Android Studio?"
+  subtype: presentation
+  speakers: [22]
+  language: es
+  complexity: ""
+
+
+
+-
+  id: 026
+  title: "Classroom"
+  description: "Classroom"
+  subtype: presentation
+  speakers: [16]
+  language: es
+  complexity: ""
+
+
+-
+  id: 027
+  title: "Google Style for Entrepreneurs"
+  description: "Google Style for Entrepreneurs"
+  subtype: presentation
+  speakers: [23]
+  language: es
+  complexity: ""

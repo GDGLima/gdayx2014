@@ -5,7 +5,7 @@
   surname: "Eckfeldt Alberti"
   company: "Account Manager en Google"
   title: ""
-  bio: 'Account Manager Google'
+  bio: 'Se desempeña como Account Manager en Google en el área de Large Customer Sales. Graduada en Administración de Empresas en la U.Pacífico en el 2011 y su experiencia en los últimos años ha sido en Consultoría de negocios y Marketing y Trade Marketing en productos de consumo masivo'
   thumbnailUrl: neckfeldt.jpg
   rockstar: true
   social: 
@@ -17,7 +17,7 @@
   surname: "Villamizar"
   company: "Account Manager-Large Client Strategy  Google"
   title: ""
-  bio: '<p>Account Manager-Large Client Strategy  Google</p>'
+  bio: '<p>Cynthia Villamizar es una Account Manager actualmente de rotation con el equipo de Google Perú trabajando con anunciantes y agencias de performance. Esta llegando a Perú después de trabajar en la casa matriz en Mt. View, California, en Bogota y Mexico D.F.  y le interesa aportar al crecimiento de los mercados en Latino América. Cynthia es una gringa con padre Colombiano, madre Ecuatoriana y que está actualmente explorando las diferencia entre un ceviche bueno y uno malazo.</p>'
   thumbnailUrl: cvillamizar.jpg
   rockstar: true
   social: 
@@ -38,14 +38,438 @@
 - 
   id: 103
   name: "Miguel"
-  surname: "Gonzáles"
+  surname: "González"
   company: "Head of Digital Innovation - BBVA Colombia"
   title: ""
   bio: '<p>Nacido en Madrid. Ingeniero superior de telecomunicación por la Universidad Politécnica de Madrid y por TELECOM ParisTech (París, Francia). Desarrolla una carrera profesional puramente internacional que comienza en 2009 en París en el seno de Telefónica como parte del primer equipo que establece esta multinacional en Francia. En 2010 se traslada a Dublín para trabajar en Google dentro del área de producto y operaciones como Product Specialist y posteriormente como Technical Strategist. Tras tres años, en 2013, comienza a trabajar como ingeniero de Google y se traslada a Bogotá (Colombia) para liderar el departamento de Mercados Emergentes en Colombia, Argentina y Perú. En este puesto su misión se centra en desarrollar y potenciar la utilización de internet y de las nuevas tecnologías en esta región.</p>'
-  thumbnailUrl: miguel.jpg
+  thumbnailUrl: mgonzales.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+MiguelGonzalezHerranz/posts"}
+
+
+#panel de statup
+
+- 
+  id: 5
+  name: "Diego"
+  surname: "Arburu"
+  company: ""
+  title: "CEO de Turismoi"
+  bio: '<p>Ganador de los concursos Wayra y Ventura Madrid</p>'
+  thumbnailUrl: darburu.jpeg
+  pstartup: true
+  social: 
+    - {name: "site", link: "http://turismoi.pe/"}
+
+- 
+  id: 6
+  name: "Rolando"
+  surname: "Cruzado"
+  company: ""
+  title: "CEO de Plaza Petz"
+  bio: '<p>CEO de Plaza Petz, - el primer market place digital para pet lovers" y Founder del Product Development & Management Association - organización global enfocada en promover mejores prácticas globales en gestión e innovación de productos. Desde el campo de emprendimiento digital, he asesorado cientos de startups en Perú, he logrado estar entre los finalistas globales del Desafío Intel 2014, asesorado cientos de startups y Evangelist del Global International Startup Network de AIESEC Alumni International en 152 países</p>'
+  thumbnailUrl: rcruzado.jpg
+  pstartup: true
+  social: 
+    - {name: "site", link: "http://plazapetz.com/"}
+
+
+- 
+  id: 7
+  name: "Alvaro"
+  surname: "Mur"
+  company: ""
+  title: "CEO de sacateun20"
+  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
+  thumbnailUrl: amur.jpg
+  pstartup: true
+  social: 
+    - {name: "site", link: "http://sacateun20.pe/"}
+
+
+- 
+  id: 8
+  name: "Mariana"
+  surname: "Costa Checa"
+  company: ""
+  title: "CEO de laboratoria"
+  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
+  thumbnailUrl: mcheca.jpg
+  pstartup: true
+  social: 
+    - {name: "site", link: "http://laboratoria.la/"}
+
+- 
+  id: 9
+  name: "Julio"
+  surname: "Chullunquia"
+  company: ""
+  title: "CEO de tegalo"
+  bio: '<p>Tegalo es la aplicación que permite enviar y recibir detalles gratuitos a través de un Smartphone.</p>'
+  thumbnailUrl: jchullunquia.jpg
+  pstartup: true
+  social: 
+    - {name: "site", link: "http://tegalo.com/web/"}
+
+
+- 
+  id: 10
+  name: "Jose "
+  surname: "Arellano"
+  company: ""
+  title: "CEO de MonkeyFit"
+  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
+  thumbnailUrl: jorellano.jpg
+  pstartup: true
+  social: 
+    - {name: "site", link: "http://www.monkeyfitapp.com/"}
+
+
+
+
+#devs
+
+- 
+  id: 11
+  name: "Zig"
+  surname: "Mandel"
+  company: ""
+  title: "CTO en Cloudware 360 - Google Enterprise Partner"
+  bio: '<p>Zig es CTO de Cloudware360, partner de Google Apps Enterprise localizado en Latino Américo y ganador del partner LATAM 2012 del año.</p>'
+  thumbnailUrl: zmandel.png
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ZigMandel-GDE/posts/N4uS35D4TnU"}
+
+
+- 
+  id: 12
+  name: "Juan"
+  surname: "Sanfeliu"
+  company: ""
+  title: "CEO de Conversion Flux."
+  bio: '<p>Juan Ramon Sanfeliu es CEO de Conversion Flux, actualmente trabajando entre Lima, Madrid y Barcelona. Está especializado en la Gestión y Optimización de Campañas PPC orientadas a Performance con Gran Volumen de tráfico, Automatizando tareas de Control, Reporting y Optimización con Google Adwords Scripts y Google Apps Scripts en Campañas de Posicionamiento en Buscadores. Ha sido Ponente del WebCongress Lima, Congreso SEM Profesional y Congreso SEO Profesional, así como ha impartido formación de PPC y Analítica Web en varios centros educativos así como en varios módulos de Maestrías como el Master SEO+SEM de Kschool y el Master en e-Tourism del CETT-UB en España.</p>'
+  thumbnailUrl: jsanfeliu.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JuanRamonSanfeliuSalva/posts"}
+
+
+- 
+  id: 13
+  name: "Diego"
+  surname: "Martinez"
+  company: ""
+  title: "Analista de Requerimientos y Desarrollo en Cloudware 360"
+  bio: 'Ingeniero de Sistemas especializado en Cloud Computing y Tecnologías Google.Google Apps Certified Sales Specialist. Google Educator (Google Apps & Chrome) Google Apps Certified Administrator'
+  thumbnailUrl: dmartinez.png
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DiegoMartinezLucioni"}
+
+
+- 
+  id: 14
+  name: "Martin"
+  surname: "Kenneth Lopez"
+  company: ""
+  title: "Entrepreneur-Consultant at Open Edge Technologies and Tekton Labs"
+  bio: 'Ingeniero de Sistemas especializado en Cloud Computing y Tecnologías Google.Google Apps Certified Sales Specialist. Google Educator (Google Apps & Chrome) Google Apps Certified Administrator'
+  thumbnailUrl: mlopez.jpg
+  pdev: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kenneth3k"}
+
+
+
+- 
+  id: 15
+  name: "Cristhina"
+  surname: "Valdivia"
+  company: ""
+  title: ""
+  bio: "Miembro de Google Developer Group Lima, alumna del colegio Innova School del 7mo Grado, Expositora en Fundacion Telefonica en el Arduino Day 2014 y Miembro del equipo Ganador con el 2do puesto en la Hackaton de Google Peru 2014 y Miembro del equipo Ganador 3er puesto en la Hackaton 2014 de la Municipalidad de Lima "
+  thumbnailUrl: cvalvidia.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/112087278077054201029/posts"}
+    - {name: "twitter", link: "https://twitter.com/hackercita"}
+
+
+- 
+  id: 16
+  name: "Hansy"
+  surname: "Schmitt"
+  company: ""
+  title: "Organizador GDG Lima"
+  bio: "Organizador GDG Lima"
+  thumbnailUrl: hschmitt.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+HansySchmitt1/posts"}
+    - {name: "twitter", link: "https://twitter.com/randomsy/"}
+
+
+- 
+  id: 17
+  name: "Gerson"
+  surname: "Nino"
+  company: "GDG Lima"
+  title: "Organizador GDG Lima"
+  bio: "Estudiante de Ciencias de la Computación, entusiasta investigador  y Organizador del GDGLima"
+  thumbnailUrl: gnino.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+GersonNi%C3%B1oDiaz/posts"}
+    - {name: "twitter", link: "https://twitter.com/07Gond"}
+
+
+- 
+  id: 18
+  name: "Eduardo"
+  surname: "Medina"
+  company: "GDG Lima"
+  title: "Organizador GDG Lima"
+  bio: " Especialista en Desarrollo Mòvil ,  Organizer del GDG Lima, Instructor de aplicaciòn mòviles y  Lìder Tècnico Android en OnlinestudioProductions."
+  thumbnailUrl: emedina.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+EduardoJoseMedinaAlfaro/posts"}
+    - {name: "twitter", link: "https://twitter.com/eduardomedina"}
+
+- 
+  id: 19
+  name: "Milton"
+  surname: "Yarleque"
+  company: ""
+  title: "Organizador GDG Lima"
+  bio: "Desarrolador. IT Specialist en IBM del Perú. Organizador en GDG Lima .Con experiencia en diferentes rubros como banca ,aviacion comercial, industria farmacéutica y telecomunicaciones."
+  thumbnailUrl: myarleque.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MiltonYarleque/posts"}
+    - {name: "twitter", link: "https://twitter.com/myarleq"}
+
+
+
+- 
+  id: 20
+  name: "Urbina"
+  surname: "Diego"
+  company: ""
+  title: "Manager GDG Lima"
+  bio: "Ingeniero de Sistemas e investigador. Google Apps Deployment Specialist. Manager del GDG Lima."
+  thumbnailUrl: durbina.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+DiegoUrbinaLopez/posts"}
+    - {name: "twitter", link: "https://twitter.com/AlevanDie"}
+
+
+- 
+  id: 21
+  name: "Alvaro"
+  surname: "Huanca"
+  company: "GDG Lima"
+  title: ""
+  bio: "Ingeniero en Computación y Sistemas.  Manager del GDG Lima."
+  thumbnailUrl: ahuanca.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AlvaroDavid/posts"}
+    - {name: "twitter", link: "https://twitter.com/AlvarDev"}
+
+- 
+  id: 22
+  name: "Carlos"
+  surname: "Piñan"
+  company: ""
+  title: "Organizador GDG  Lima"
+  bio: 'Desarrollador de juego. Analista desarrollador en NorthSouth Studios.'
+  thumbnailUrl: cpinan.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+CarlosEduardoPinanIndacochea/posts"}
+    - {name: "twitter", link: "https://twitter.com/carlospinan"}
+
+- 
+  id: 23
+  name: "Juan Jose"
+  surname: "Rodriguez"
+  company: ""
+  title: "Country Champion Perú"
+  bio: ''
+  thumbnailUrl: jrodriguez.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+juanjoserodriguez/posts"}
+    - {name: "twitter", link: "https://twitter.com/jrodriguezv10"}
+
+
+
+
+
+- 
+  id: 25
+  name: "Indira"
+  surname: "Burga"
+  company: "GDG Women Lima"
+  title: "Organizadora GDG Women Lima"
+  bio: "Ing. de Sistemas, Certified Scrum Master (CSM), Certified Scrum Product Owner (CSPO), Certified ITIL Foundation, Organizer en GDG Women Lima, Gestora de Proyectos de desarrollo de software, amante de la metodología ágiles y las nuevas tecnologías."
+  thumbnailUrl: iburga.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+IndiraBurga/posts"}
+    - {name: "twitter", link: "https://twitter.com/indirabm"}
+
+
+- 
+  id: 26
+  name: "Claudia"
+  surname: "Villalba"
+  company: "GDG  Women Lima "
+  title: "Organizadora GDG  Women Lima"
+  bio: "Organizer del GDGWomenLima. Estudiante de Ingeniera Informática. Enamorada de las nuevas tecnologías y la investigación"
+  thumbnailUrl: cvillalba.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ClaudiaVillalba/posts"}
+    - {name: "twitter", link: "https://twitter.com/Claus1405"}
+
+
+
+- 
+  id: 27
+  name: "Nathaly"
+  surname: "Alarcon"
+  company: "GDG Women Lima"
+  title: "Organizadora GDG  Women Lima"
+  bio: 'Organizer del GDGWomenLima. Ingeniera de Sistemas de la Escuela Militar de Ingeniería (La Paz - Bolivia). Líder Técnico en proyectos BPM Freelancer. Apasionada por la tecnología y la Seguridad de Sistemas. I code in my sleep'
+  thumbnailUrl: nalarcon.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NathalyAlarconTorrico/posts"}
+    - {name: "twitter", link: "https://twitter.com/NathalyAlarconT"}
+
+
+- 
+  id: 28
+  name: "Roxana"
+  surname: "Panaque"
+  company: ""
+  title: "Manager GDG Women Lima"
+  bio: 'Manager del GDG Women Lima y Organizer del  GDG Lima e integrante como miembro promotor de tecnología Google en Perú.Estudiante de ingeniería de Sistemas de la Universidad Tecnológica del Perú. Ha participado de los eventos Google I/O Extended Perú 2012 , DevFest Lima , DevFest Women Lima , entre otros.'
+  thumbnailUrl: rpanaque.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RoxanaPanaqu%C3%A9C%C3%A1vana/posts"}
+    - {name: "twitter", link: "https://twitter.com/rpanaque"}
+
+
+- 
+  id: 29
+  name: "Sharela"
+  surname: "Hacha"
+  company: ""
+  title: "Organizadora GDG Women Lima"
+  bio: 'Organizer del GDG Women Lima. Estudiante y colaboradora en la Escuela de Ingeniería de Sistemas en la Unidad de investigación de la Universidad Cesar Vallejo'
+  thumbnailUrl: shacha.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+sharelahacha/posts"}
+    - {name: "twitter", link: "https://twitter.com/Sharela7"}
+
+
+
+
+- 
+  id: 30
+  name: "Cesar"
+  surname: "Cruz"
+  company: "IEEE USMP"
+  title: ""
+  bio: ''
+  thumbnailUrl: noimage.jpg
+  pdev: true
+  social: 
+
+- 
+  id: 31
+  name: "Cristian "
+  surname: "Cisneros"
+  company: ""
+  title: "NeoRobot"
+  bio: ''
+  thumbnailUrl: noimage.jpg
+  pdev: true
+  social: 
+
+
+#negocios
+
+- 
+  id: 41
+  name: "Miguel"
+  surname: "Burriel"
+  company: ""
+  title: "Mentor en Startup Academy"
+  bio: '<p>Docente at Universidad Peruana de Ciencias Aplicadas, Coordinador de Startup Academy y fundador de Bodatips.</p>'
+  thumbnailUrl: mburiel.jpg
+  pbus: true
+  social: 
+    - {name: "linkedin", link: "pe.linkedin.com/pub/miguel-burriel/8/809/4b8"}
+
+
+- 
+  id: 42
+  name: "Naut"
+  surname: "Aguilera Echevarría"
+  company: ""
+  title: "CEO de Evolutiva"
+  bio: '<p>Especialista en Neuromarketing y Psico antropología del Consumo, Embajador Líder de BIIA LAB y fundador del Colectivo Vitamina Y.</p>'
+  thumbnailUrl: naguilera.jpg
+  pbus: true
+  social: 
+    - {name: "linkedin", link: "pe.linkedin.com/pub/naut-aguilera-echevarria/26/5a6/2ba"}
+
+- 
+  id: 43
+  name: "Sergio"
+  surname: "Nouvel"
+  company: ""
+  title: "Director de UX en Continuum"
+  bio: '<p>Sergio es Director en Perú de Continuum, una boutique de Experiencia de Usuario y desarrollo de productos y servicios digitales. Además es Co-fundador de Get on Board, el portal especializado en empleos digitales en Latinoamérica. Junto a Continuum ha creado Scope Canvas, una herramienta para desarrollar proyectos en base a Lean UX. Sus artículos sobre innovación y UX han sido publicados en Mashable, UX Magazine y Pulso Social.</p>'
+  thumbnailUrl: snouvel.jpg
+  pbus: true
+  social: 
+    - {name: "linkedin", link: "pe.linkedin.com/pub/naut-aguilera-echevarria/26/5a6/2ba"}
+
+- 
+  id: 44
+  name: "Mellisa"
+  surname: "Gave"
+  company: ""
+  title: "Manager GBG Lima"
+  bio: '<p>Systems Engineer with experience in process modeling and project management using agile methodologies. With capacity of leadership, innovation, creativity, perseverance, good level of analysis and synthesizing, and tolerance to work under pressure.</p>'
+  thumbnailUrl: mgave.jpg
+  pbus: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+MelissaGave/posts"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
