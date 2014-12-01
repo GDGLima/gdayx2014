@@ -164,9 +164,10 @@ teamBlockTitle: "Sobre nosotros"
 aboutUs: "Comunidad de Negocios con productos de Google - GBG Lima - Conecta Informa e Inspira"
 
 # Logistics Find Way Block
-findWayTitle: ""
-logisticsMapCenterCoordinates: ""
-logisticsMapMobileCenterCoordinates: ""
+findWayTitle: "¿Cómo llegar aquí?"
+logisticsMapCenterCoordinates: "-12.0723315,-76.94166519999999"
+logisticsMapMobileCenterCoordinates: "-12.0723315,-76.94166519999999"
+
 
 # # Logistics Direction Details Block
 # directionDetailsTitle: "Get around Lviv"

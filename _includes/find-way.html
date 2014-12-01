@@ -2,7 +2,7 @@
 <section id="find-way" class="find-way">    
     <div id="canvas-map" class="canvas-map"></div>
     <div class="content-wrapper text-left">
-        <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.findWayTitle }}</h3>
+        <h3 class="animated hiding" data-animation="fadeInUp" data-delay="0">¿ Cómo llegar al GdayxLima ?</h3>
         <div class="map-card col-lg-3 col-md-4 col-sm-6 col-xs-12">
             <div class="map-search">
                 <input type="text" id="location-input" class="location-input" name="location-input" data-input-value="Your location" placeholder="Your location" autocomplete="off">
@@ -12,7 +12,7 @@
             </div>
             <div class="location-result">
                 <span id="result-name" class="result-name"></span>
-                <span>to DevFest</span>
+                <span>GDayxLima</span>
                 <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
                     <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
                 </svg>
@@ -24,7 +24,7 @@
                     <svg class="icon icon-flag" viewBox="0 0 30 32">
                         <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flag"></use>
                     </svg>
-                    <span>Distance</span>
+                    <span>Distancia</span>
                     <span id="distance" class="detailed-result pull-right"></span>
                 </li>
                 <li>
@@ -33,14 +33,14 @@
                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-flight"></use>
                         </svg>
                         <select id="mode-select">
-                            <option value="DRIVING">DRIVING</option>
-                            <option value="WALKING">WALKING</option>
-                            <option value="BICYCLING">BICYCLING</option>
-                            <option value="TRANSIT">TRANSIT</option>
+                            <option value="DRIVING">En auto</option>
+                            <option value="WALKING">Caminando</option>
+                            <option value="BICYCLING">En bicliceta</option>
+                            <option value="TRANSIT">Tránsito</option>
                         </select>
                         <span id="estimateTime" class="detailed-result pull-right"></span>
                     </div>
-                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">Find Flight</a>
+                    <a id="find-flight" href="https://google.com/flights" class="pull-right hidden" target="_blank">Buscar vuelos</a>
                 </li>
             </ul>
         </div>
