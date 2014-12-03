@@ -5,12 +5,12 @@
   service: true
 -
   id: 303
-  title: "Cierre del evento"
+  title: "Sorteos, regalos, cierre de evento"
   place: "Blue room"
   service: true
 -
   id: 307
-  title: "Break"
+  title: "Almuerzo networking"
   place: "Hall"
   service: true
 -
@@ -97,7 +97,7 @@
   title: "Panel de startups"
   description: ""
   subtype: presentation
-  speakers: [5,6,7,8,9,10]
+  speakers: [46,47,48,49,50]
   language: es
   complexity: ""
 
