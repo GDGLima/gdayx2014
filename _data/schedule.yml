@@ -1,6 +1,6 @@
 - 
   date: "2014-12-13"
-  dateReadable: 'Negocios y emprendimiento'
+  dateReadable: 'Negocios y emprendimiento - Sábado 13'
   parallelCount: 1
   tracks: 
     - {parallel: 1, title: "Auditorio", color: "#90be4e"}
@@ -75,7 +75,7 @@
 
 - 
   date: "2014-12-14"
-  dateReadable: 'Desarrollo'
+  dateReadable: 'Desarrollo - Domingo 14'
   parallelCount: 1
   tracks: 
     - {parallel: 1, title: "Auditorio", color: "#90be4e"}

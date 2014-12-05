@@ -4,6 +4,8 @@
     - {name: "GDG Lima", description: "GDG Lima - Difunde, comparte y promueve tecnología Google", link: "https://plus.google.com/+gdglimape/posts", imageUrl: "gdglima.jpg"}
     - {name: "GBG Lima", description: "GBG Lima - Conecta - Informa - Inspira", link: "https://plus.google.com/u/0/103607234084788626166/about", imageUrl: "gbglima.png"}
     - {name: "GDGW Lima", description: "GDGW Lima - Difunde, comparte y promueve tecnología Google", link: "https://plus.google.com/+GDGWomenLima/posts", imageUrl: "gdgwomenlima.jpg"}
+    - {name: "IEEE USMP", description: "La Rama Estudiantil IEEE-USMP esta conformado por estudiantes de la Escuela Profesional de Ingeniería de Computación y Sistemas de la USMP", link: "https://www.facebook.com/CSUSMP", imageUrl: "ieee-usmp.jpg"}
+
 #- 
 #  group: "Co-organizers"
 #  elements: 
