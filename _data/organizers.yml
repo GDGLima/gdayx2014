@@ -1,5 +1,5 @@
 - 
-  group: "Comunidades"
+  group: "Organiza:"
   elements: 
     - {name: "GDG Lima", description: "GDG Lima - Difunde, comparte y promueve tecnología Google", link: "https://plus.google.com/+gdglimape/posts", imageUrl: "gdglima.jpg"}
     - {name: "GBG Lima", description: "GBG Lima - Conecta - Informa - Inspira", link: "https://plus.google.com/u/0/103607234084788626166/about", imageUrl: "gbglima.png"}

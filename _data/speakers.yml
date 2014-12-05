@@ -140,7 +140,7 @@
   name: "Eduardo"
   surname: "Medina"
   company: "GDG Lima"
-  title: "Lider Técnico en OnlinestudioProductions"
+  title: "Lider Técnico Android"
   bio: " Especialista en Desarrollo Mòvil ,  Organizer del GDG Lima, Instructor de aplicaciòn mòviles y  Lìder Tècnico Android en OnlinestudioProductions."
   thumbnailUrl: emedina.jpg
   pdev: true
@@ -183,7 +183,7 @@
   surname: "Huanca"
   company: "GDG Lima"
   title: "Desarrollador en Cloudware 360"
-  bio: "Ingeniero en Computación y Sistemas.  Manager del GDG Lima."
+  bio: "Android Developer.  Manager del GDG Lima."
   thumbnailUrl: ahuanca.jpg
   pdev: true
   social: 
