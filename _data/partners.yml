@@ -2,6 +2,7 @@
   group: "Sponsors"
   elements: 
     - {name: "USMP", description: "Universidad de San Martín de Porres", link: "usmp.edu.pe", imageUrl: "logo_usmp_campus.png"}
+    - {name: "CLOUDWARE360", description: "Cloudware 360", link: "http://www.cloudware360.com/", imageUrl: "cw360.jpg"}
 
 - 
   group: "Prensa"
