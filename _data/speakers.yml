@@ -9,7 +9,7 @@
   thumbnailUrl: neckfeldt.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/cynthia-villamizar/14/12b/2a"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/nicole-eckfeldt-alberti/38/a47/21"}
 
 - 
   id: 101
@@ -284,8 +284,8 @@
   surname: "Cruz"
   company: "IEEE USMP"
   title: "IEEE USMP"
-  bio: ''
-  thumbnailUrl: noimage.jpg
+  bio: 'Egresado de la escuela de Ing Electrónica de la Universidad de San Martin de porres con estudios de especialización en tecnologías de fabricación digital y prototipos electrónicos Diseño y construcción de prototipos electrónicos '
+  thumbnailUrl: cesar_soto.jpg
   pdev: true
   social: 
 
@@ -294,9 +294,9 @@
   name: "Cristian "
   surname: "Cisneros"
   company: ""
-  title: "NeoRobot"
-  bio: ''
-  thumbnailUrl: noimage.jpg
+  title: "Robot Nao"
+  bio: 'Gerente general (CEO) en Roboticist SAC.Investigador en Desarrollo de Aplicaciones móviles, Hardware Embebido y Robótica en el Centro de Tecnologías de Información y Comunicaciones CTIC-UNI.Asesor en Ingeniería Mecatrónica en el Instituto de Investigación de la FIIS-UNI Colaborador de la red mundial de FabLabs del CBA - MIT'
+  thumbnailUrl: ccisneros.jpg
   pdev: true
   social: 
 
@@ -347,11 +347,11 @@
 - 
   id: 46
   name: "Diego"
-  surname: "Arburu"
+  surname: "Arbulu"
   company: ""
   title: "CEO de Turismoi"
   bio: '<p>Ganador de los concursos Wayra y Ventura Madrid</p>'
-  thumbnailUrl: darburu.jpeg
+  thumbnailUrl: darbulu.jpeg
   pbus: true
   social: 
     - {name: "site", link: "http://turismoi.pe/"}
@@ -367,19 +367,6 @@
   pbus: true
   social: 
     - {name: "site", link: "http://plazapetz.com/"}
-
-
-- 
-  id: 48
-  name: "Alvaro"
-  surname: "Mur"
-  company: ""
-  title: "CEO de Sacateun20"
-  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
-  thumbnailUrl: amur.jpg
-  pbus: true
-  social: 
-    - {name: "site", link: "http://sacateun20.pe/"}
 
 
 - 

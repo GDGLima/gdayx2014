@@ -7,10 +7,9 @@
 - 
   group: "Prensa"
   elements: 
-    - {name: "TECNEWS", description: "Entrevistas, artículos, lanzamientos, reviews, noticias y todo lo que necesitas saber sobre la actualidad tecnológica del Perú y del Mundo.", link: "http://tecnews.pe/", imageUrl: "tecnewspe.png"}
+    - {name: "TECNEWS", description: "Entrevistas, artículos, lanzamientos, reviewhttp://www.revistafocus.pe/s, noticias y todo lo que necesitas saber sobre la actualidad tecnológica del Perú y del Mundo.", link: "http://tecnews.pe/", imageUrl: "tecnewspe.png"}
     - {name: "Technopatas", description: "Tecnología para mentes de otra dimensión", link: "http://technopatas.com/", imageUrl: "technopatas1.jpg"}
-
-
+    - {name: "Revista Focus", description: "Revista Focus", link: "http://www.revistafocus.pe/", imageUrl: "revistafocus.jpg"}
 
 
 
