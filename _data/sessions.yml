@@ -1,6 +1,6 @@
 -
   id: 212
-  title: "Registro de asistentes"
+  title: "Registro de Participantes"
   place: "Hall"
   service: true
 -
@@ -10,9 +10,16 @@
   service: true
 -
   id: 307
-  title: "Almuerzo networking"
+  title: "Almuerzo Networking"
   place: "Hall"
   service: true
+
+-
+  id: 308
+  title: "Coffe break"
+  place: "Hall"
+  service: true
+
 -
   id: 408
   title: ""
@@ -29,10 +36,10 @@
 -
 
   id: 001
-  title: "Bienvenida al GDAYX/Presentacion del GBG y formato GBGW"
+  title: "Introducción GDayX Lima for Entrepreneurs"
   description: "Bienvenida al GDAYX/Presentacion del GBG y formato GBGW"
   subtype: presentation
-  speakers: []
+  speakers: [32]
   language: es
   complexity: ""
 
@@ -97,7 +104,16 @@
   title: "Panel de startups"
   description: ""
   subtype: presentation
-  speakers: [46,47,48,49,50]
+  speakers: [46,47]
+  language: es
+  complexity: ""
+
+-
+  id: 109
+  title: "Panel de startups"
+  description: ""
+  subtype: presentation
+  speakers: [49,50]
   language: es
   complexity: ""
 
@@ -262,5 +278,14 @@
   description: "Google Style for Entrepreneurs"
   subtype: presentation
   speakers: [51]
+  language: es
+  complexity: ""
+
+-
+  id: 028
+  title: "Juntos Salimos"
+  description: "Google Style for Entrepreneurs"
+  subtype: presentation
+  speakers: [103]
   language: es
   complexity: ""

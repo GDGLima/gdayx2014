@@ -304,6 +304,19 @@
   pdev: true
   social: 
 
+- 
+  id: 32
+  name: "Melissa"
+  surname: "Gave"
+  company: "GDG Women Lima"
+  title: "Organizador GDG Women Lima"
+  bio: "Miembro del GDG Women Lima"
+  thumbnailUrl: mgave.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
+    - {name: "twitter", link: "https://twitter.com/MelissaGaveM"}
+
 
 #negocios
 
@@ -347,7 +360,7 @@
     - {name: "linkedin", link: "pe.linkedin.com/pub/naut-aguilera-echevarria/26/5a6/2ba"}
 
 
-#panel de statup
+#panel de startup
 - 
   id: 46
   name: "Diego"
