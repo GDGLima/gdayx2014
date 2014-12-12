@@ -424,6 +424,16 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+juanjoserodriguez/posts"}
     - {name: "twitter", link: "https://twitter.com/jrodriguezv10"}
 
+- 
+  id: 52
+  name: "Open Hack"
+  surname: "Space"
+  company: " "
+  title: ''
+  bio: ''
+  thumbnailUrl: noimage.jpg
+  pbus: true
+  social: 
 
 
 

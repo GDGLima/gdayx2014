@@ -34,12 +34,11 @@
 
 
 -
-
   id: 001
   title: "Introducción GDayX Lima for Entrepreneurs"
   description: "Bienvenida al GDAYX/Presentacion del GBG y formato GBGW"
   subtype: presentation
-  speakers: [32]
+  speakers: []
   language: es
   complexity: ""
 
@@ -245,7 +244,7 @@
   title: "Conoce y aprende sobre Drones"
   description: "Conoce y aprende sobre Drones"
   subtype: presentation
-  speakers: [1]
+  speakers: [52]
   language: es
   complexity: ""
 
@@ -287,5 +286,14 @@
   description: "Google Style for Entrepreneurs"
   subtype: presentation
   speakers: [103]
+  language: es
+  complexity: ""
+
+-
+  id: 029
+  title: "Nuevos contextos, Nuevas oportunidades"
+  description: ""
+  subtype: presentation
+  speakers: [101]
   language: es
   complexity: ""
