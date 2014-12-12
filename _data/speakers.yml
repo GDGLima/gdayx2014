@@ -55,7 +55,7 @@
 
 - 
   id: 12
-  name: "Juan"
+  name: "Juan Ramon"
   surname: "Sanfeliu"
   company: ""
   title: "CEO de Conversion Flux."
@@ -64,6 +64,10 @@
   pdev: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JuanRamonSanfeliuSalva/posts"}
+    - {name: "linkedin", link: "pe.linkedin.com/in/juanramonsanfeliu/"}
+    - {name: "twitter", link: "https://twitter.com/jrsanfeliu"}
+
+
 
 
 - 
@@ -154,7 +158,7 @@
   surname: "Yarleque"
   company: ""
   title: "Organizador GDG Lima"
-  bio: "Desarrolador. IT Specialist en IBM del Perú. Organizador en GDG Lima .Con experiencia en diferentes rubros como banca ,aviacion comercial, industria farmacéutica y telecomunicaciones."
+  bio: "Desarrolador.Organizador en GDG Lima."
   thumbnailUrl: myarleque.jpg
   pdev: true
   social: 
@@ -375,7 +379,7 @@
   surname: "Costa Checa"
   company: ""
   title: "CEO de Laboratoria"
-  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
+  bio: '<p>Después de diez años por el mundo estudiando y trabajando en temas de desarrollo social, Mariana ha vuelto a vivir a Perú para impulsar el emprendimiento social mediante el uso de nuevas tecnologías. Es cofundadora de Ayu, un taller de desarrollo web en Lima, y de Laboratoria, un emprendimiento social para formar a jóvenes mujeres sin acceso a educación superior de calidad como desarrolladoras web. Laboratoria forma parte de los casos de éxito GBG SUCCESS STORIES</p>'
   thumbnailUrl: mcheca.jpg
   pbus: true
   social: 
@@ -387,7 +391,7 @@
   surname: "Chullunquia"
   company: ""
   title: "CEO de Tegalo"
-  bio: '<p>Tegalo es la aplicación que permite enviar y recibir detalles gratuitos a través de un Smartphone.</p>'
+  bio: '<p>Tegalo es un sistema de recompensas reales a través de minijeugos en dispositivos móviles. Recientemente fueron seleccionados por la Organización Mundial Red Emprendia como una de los modelos de negocio más prometedores de Iberoamérica.Y participaron en el programa de aceleramiento Spin2014 llevado a cabo en la ciudad de México donde consiguieron, representando al Perú, situarse el 3er lugar de entre más de 20 proyectos  de distintos países de Iberoamérica.</p>'
   thumbnailUrl: jchullunquia.jpg
   pbus: true
   social: 
