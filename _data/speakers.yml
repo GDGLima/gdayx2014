@@ -9,7 +9,7 @@
   thumbnailUrl: neckfeldt.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/cynthia-villamizar/14/12b/2a"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/nicole-eckfeldt-alberti/38/a47/21"}
 
 - 
   id: 101
@@ -55,7 +55,7 @@
 
 - 
   id: 12
-  name: "Juan"
+  name: "Juan Ramon"
   surname: "Sanfeliu"
   company: ""
   title: "CEO de Conversion Flux."
@@ -64,6 +64,10 @@
   pdev: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JuanRamonSanfeliuSalva/posts"}
+    - {name: "linkedin", link: "pe.linkedin.com/in/juanramonsanfeliu/"}
+    - {name: "twitter", link: "https://twitter.com/jrsanfeliu"}
+
+
 
 
 - 
@@ -154,7 +158,7 @@
   surname: "Yarleque"
   company: ""
   title: "Organizador GDG Lima"
-  bio: "Desarrolador. IT Specialist en IBM del Perú. Organizador en GDG Lima .Con experiencia en diferentes rubros como banca ,aviacion comercial, industria farmacéutica y telecomunicaciones."
+  bio: "Desarrolador.Organizador en GDG Lima."
   thumbnailUrl: myarleque.jpg
   pdev: true
   social: 
@@ -284,8 +288,8 @@
   surname: "Cruz"
   company: "IEEE USMP"
   title: "IEEE USMP"
-  bio: ''
-  thumbnailUrl: noimage.jpg
+  bio: 'Egresado de la escuela de Ing Electrónica de la Universidad de San Martin de porres con estudios de especialización en tecnologías de fabricación digital y prototipos electrónicos Diseño y construcción de prototipos electrónicos '
+  thumbnailUrl: cesar_soto.jpg
   pdev: true
   social: 
 
@@ -294,11 +298,24 @@
   name: "Cristian "
   surname: "Cisneros"
   company: ""
-  title: "NeoRobot"
-  bio: ''
-  thumbnailUrl: noimage.jpg
+  title: "Robot Nao"
+  bio: 'Gerente general (CEO) en Roboticist SAC.Investigador en Desarrollo de Aplicaciones móviles, Hardware Embebido y Robótica en el Centro de Tecnologías de Información y Comunicaciones CTIC-UNI.Asesor en Ingeniería Mecatrónica en el Instituto de Investigación de la FIIS-UNI Colaborador de la red mundial de FabLabs del CBA - MIT'
+  thumbnailUrl: ccisneros.jpg
   pdev: true
   social: 
+
+- 
+  id: 32
+  name: "Melissa"
+  surname: "Gave"
+  company: "GDG Women Lima"
+  title: "Organizador GDG Women Lima"
+  bio: "Miembro del GDG Women Lima"
+  thumbnailUrl: mgave.jpg
+  pdev: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MelissaGave/posts"}
+    - {name: "twitter", link: "https://twitter.com/MelissaGaveM"}
 
 
 #negocios
@@ -343,15 +360,15 @@
     - {name: "linkedin", link: "pe.linkedin.com/pub/naut-aguilera-echevarria/26/5a6/2ba"}
 
 
-#panel de statup
+#panel de startup
 - 
   id: 46
   name: "Diego"
-  surname: "Arburu"
+  surname: "Arbulu"
   company: ""
   title: "CEO de Turismoi"
   bio: '<p>Ganador de los concursos Wayra y Ventura Madrid</p>'
-  thumbnailUrl: darburu.jpeg
+  thumbnailUrl: darbulu.jpeg
   pbus: true
   social: 
     - {name: "site", link: "http://turismoi.pe/"}
@@ -370,25 +387,12 @@
 
 
 - 
-  id: 48
-  name: "Alvaro"
-  surname: "Mur"
-  company: ""
-  title: "CEO de Sacateun20"
-  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
-  thumbnailUrl: amur.jpg
-  pbus: true
-  social: 
-    - {name: "site", link: "http://sacateun20.pe/"}
-
-
-- 
   id: 49
   name: "Mariana"
   surname: "Costa Checa"
   company: ""
   title: "CEO de Laboratoria"
-  bio: '<p>Caso de éxito GBG SUCCESS STORIES</p>'
+  bio: '<p>Después de diez años por el mundo estudiando y trabajando en temas de desarrollo social, Mariana ha vuelto a vivir a Perú para impulsar el emprendimiento social mediante el uso de nuevas tecnologías. Es cofundadora de Ayu, un taller de desarrollo web en Lima, y de Laboratoria, un emprendimiento social para formar a jóvenes mujeres sin acceso a educación superior de calidad como desarrolladoras web. Laboratoria forma parte de los casos de éxito GBG SUCCESS STORIES</p>'
   thumbnailUrl: mcheca.jpg
   pbus: true
   social: 
@@ -400,7 +404,7 @@
   surname: "Chullunquia"
   company: ""
   title: "CEO de Tegalo"
-  bio: '<p>Tegalo es la aplicación que permite enviar y recibir detalles gratuitos a través de un Smartphone.</p>'
+  bio: '<p>Tegalo es un sistema de recompensas reales a través de minijeugos en dispositivos móviles. Recientemente fueron seleccionados por la Organización Mundial Red Emprendia como una de los modelos de negocio más prometedores de Iberoamérica.Y participaron en el programa de aceleramiento Spin2014 llevado a cabo en la ciudad de México donde consiguieron, representando al Perú, situarse el 3er lugar de entre más de 20 proyectos  de distintos países de Iberoamérica.</p>'
   thumbnailUrl: jchullunquia.jpg
   pbus: true
   social: 
@@ -420,6 +424,16 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+juanjoserodriguez/posts"}
     - {name: "twitter", link: "https://twitter.com/jrodriguezv10"}
 
+- 
+  id: 52
+  name: "Open Hack"
+  surname: "Space"
+  company: " "
+  title: ''
+  bio: ''
+  thumbnailUrl: noimage.jpg
+  pbus: true
+  social: 
 
 
 
