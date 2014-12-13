@@ -27,14 +27,14 @@
     - {
         parallel: 1,
         startTime: "10:30",
-        endTime: "11:15",
-        sessionIds: [003,408]
+        endTime: "12:45",
+        sessionIds: [004,408]
     }
     - {
         parallel: 1,
-        startTime: "11:15",
+        startTime: "12:45",
         endTime: "13:15",
-        sessionIds: [004,408]
+        sessionIds: [003,408]
     }
     - {
         parallel: 1,
